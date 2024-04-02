@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommendations</title>
+    <style>
+        body {
+        font-family: 'Merriweather', serif;
+        background-color: #f4f1ea;
+        margin: 0;
+        padding: 0;
+    }
+
+    .container {
+        max-width: 600px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #fefefe;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+        text-align: center;
+        color: #6b4e3d;
+    }
+
+    .song-list {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .song {
+        font-size: 18px;
+        margin-bottom: 10px;
+        padding: 10px 20px;
+        background-color: #f3f3f3;
+        border-radius: 4px;
+        text-align: center;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .song:hover{
+        background-color: #a39071;
+        color: #f3f3f3;
+    }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2 class="title text-4xl font-bold mb-3">Recommended Songs for '{{ book_title }}'</h2>
+        <ul class="song-list">
+            {% for song in recommendations %}
+                <li class="song">{{ song }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>
