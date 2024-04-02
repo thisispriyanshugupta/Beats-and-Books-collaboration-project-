@@ -27,7 +27,7 @@ def get_song_recommendations(book_title, n=3, cosine_sim=cosine_sim):
 # Flask routes
 @app.route('/')
 def index():
-    return render_template('final.html')
+    return render_template('index.html')
 
 @app.route('/recommendations', methods=['POST'])
 def recommendations():
