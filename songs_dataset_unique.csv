@@ -1,0 +1,493 @@
+Song_ID,Song Name,Artist,Genre,Description
+1,Bohemian Rhapsody,Queen,Rock,"A complex and iconic rock song with operatic sections, piano ballads, and hard rock elements. Tells a story of a man facing his regrets."
+2,Imagine,John Lennon,Folk,A hopeful ballad calling for peace and unity in the world.
+3,A Sky Full of Stars,Coldplay,Pop,An uplifting and atmospheric song about wonder and the universe.
+4,Back in Black,AC/DC,Hard Rock,A high-energy rock anthem about returning with power and vengeance.
+5,Moonlight Sonata,Ludwig van Beethoven,Classical,A hauntingly beautiful piano sonata known for its dramatic movements.
+6,Billie Jean,Michael Jackson,Pop,A funky and danceable song with a catchy groove and iconic moonwalk reference.
+7,Hotel California,Eagles,Rock,A mysterious and symbolic song about a luxurious hotel that guests can never leave.
+8,Hey Jude,The Beatles,Pop Rock,A heartfelt and comforting song offering encouragement and support.
+9,Rolling in the Deep,Adele,Soul,A powerful and soulful ballad about heartbreak and moving on.
+10,Lose Yourself,Eminem,Hip Hop,A fast-paced and motivational rap song about overcoming challenges and achieving success.
+11,Perfect,Ed Sheeran,Pop,A sweet and romantic song about finding the perfect person.
+12,Happy,Pharrell Williams,Pop,An infectiously upbeat and positive song that celebrates happiness.
+13,Can't Stop the Feeling!,Justin Timberlake,Pop Funk,A joyous and dance-filled song radiating good vibes.
+14,Uptown Funk,Mark Ronson ft. Bruno Mars,Pop Funk,A smooth and funky throwback song with catchy lyrics and a danceable beat.
+15,A Thousand Miles,Vanessa Carlton,Piano Pop,A melancholic and introspective song about longing and missed connections.
+16,Hallelujah,Leonard Cohen,Folk Rock,"A powerful and spiritual song with many interpretations, often used for cover versions."
+17,Like a Rolling Stone,Bob Dylan,Folk Rock,A thought-provoking and critical song questioning societal norms and expectations.
+18,Yesterday,The Beatles,Pop Rock,A beautiful and bittersweet ballad about lost love and nostalgia.
+19,Let It Be,The Beatles,Rock Ballad,A comforting and hopeful song about letting go and finding peace.
+20,Africa,Toto,Pop Rock,A catchy and upbeat song with a distinctive keyboard riff and references to the continent of Africa.
+21,Dancing Queen,ABBA,Pop,A disco anthem celebrating dancing and having fun.
+22,Waterloo,ABBA,Pop,A catchy and energetic song that launched ABBA to international fame.
+23,I Will Survive,Gloria Gaynor,Disco,An empowering and anthemic song about overcoming heartbreak and moving on.
+24,Don't Stop Believin',Journey,Rock,A powerful and inspirational rock song about chasing dreams and holding onto hope.
+25,Sweet Child o' Mine,Guns N' Roses,Hard Rock,A classic rock ballad with a soaring guitar solo and emotional lyrics.
+26,Stairway to Heaven,Led Zeppelin,Rock,An epic and progressive rock song with a mystical and symbolic theme.
+27,Purple Rain,Prince,Rock Pop,A powerful and emotional song associated with the film of the same name.
+28,Redemption Song,Bob Marley,Reggae,A hopeful and uplifting song about overcoming oppression and fighting for freedom.
+29,No Woman No Cry,Bob Marley,Reggae,A beautiful and soulful song about heartbreak and resilience.
+30,Three Little Birds,Bob Marley,Reggae,An optimistic and uplifting song encouraging listeners to keep their spirits high.
+31,Blowin' in the Wind,Bob Dylan,Folk,"A thought-provoking and timeless song about war, peace, and freedom."
+32,A Change is Gonna Come,Sam Cooke,Soul,A powerful and hopeful song about the promise of change and a brighter future.
+33,Respect,Aretha Franklin,Soul,A powerful and anthemic song demanding respect and equality.
+34,Watermelon Sugar,Harry Styles,Pop,A bright and summery pop song with a catchy melody and optimistic vibes.
+35,Crazy in Love,Beyoncé ft. Jay-Z,R&B,A sultry and confident R&B song about falling in love.
+36,Get Lucky,Daft Punk ft. Pharrell Williams,Electronic Pop,A funky and danceable electronic song with a catchy hook and iconic robot vocals.
+37,Titanium,David Guetta ft. Sia,Pop Dance,A powerful and uplifting pop song about strength and resilience.
+38,Royals,Lorde,Pop Rock,A rebellious and catchy pop song challenging societal expectations.
+39,Thinking Out Loud,Ed Sheeran,Pop,A romantic and soulful song about love and commitment.
+40,Uptown Funk (Mark Ronson remix),Mark Ronson ft. Bruno Mars,Pop Funk,A high-energy remix of the original Uptown Funk with additional elements and a livelier feel.
+41,Thrift Shop,Macklemore & Ryan Lewis,Hip Hop,A catchy and quirky hip hop song about finding treasures at thrift stores.
+42,Radioactive,Imagine Dragons,Alternative Rock,A dark and energetic rock song about facing challenges and overcoming them.
+43,Pompeii,Bastille,Indie Pop,A catchy and dramatic indie pop song about a city frozen in time.
+44,Somebody That I Used to Know,Gotye ft. Kimbra,Pop Rock,A catchy and melancholic song about a past relationship.
+45,Rolling in the Deep (acoustic version),Adele,Soul,"A stripped-down and raw acoustic version of the original Rolling in the Deep, showcasing Adele's powerful vocals."
+46,Hey Ya!,Outkast,Hip Hop,A catchy and playful hip hop song with a positive message.
+47,Mr. Brightside,The Killers,Alternative Rock,A catchy and angsty rock song about jealousy and heartbreak.
+48,Seven Nation Army,The White Stripes,Rock,A minimalist and powerful rock song with a recognizable guitar riff.
+49,Clint Eastwood,Gorillaz,Hip Hop,A laid-back and humorous hip hop song with cartoonish elements.
+50,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton,Hip Hop,A high-energy and motivational hip hop song about achieving success.
+51,Livin' on a Prayer,Bon Jovi,Rock,A classic and anthemic rock song about love and holding onto hope.
+52,I Wanna Dance With Somebody (Who Loves Me),Whitney Houston,Pop,A powerful and danceable pop song about finding love.
+53,Like a Prayer,Madonna,Pop,A controversial and thought-provoking pop song with religious themes.
+54,Billie Jean (live version),Michael Jackson,Pop,A captivating live performance of Billie Jean showcasing Jackson's iconic dance moves.
+55,Creep,Radiohead,Alternative Rock,A melancholic and self-deprecating rock song about feeling like an outsider.
+56,Parklife,Blur,Britpop,A catchy and quintessentially British rock song about everyday life.
+57,Zombie,The Cranberries,Alternative Rock,A powerful and emotional rock song about war and loss.
+58,Losing My Religion,R.E.M.,Alternative Rock,A haunting and introspective rock song about questioning faith and beliefs.
+59,Smells Like Teen Spirit,Nirvana,Grunge,A raw and energetic grunge song that became an anthem for a generation.
+60,Don't Look Back in Anger,Oasis,Britpop,A hopeful and anthemic Britpop song looking towards the future.
+61,Song 2,Blur,Britpop,A loud and distorted rock song with a simple structure and catchy singalong chorus.
+62,Champagne Supernova,Oasis,Britpop,An epic and nostalgic Britpop song with psychedelic influences.
+63,Karma Chameleon,Culture Club,Pop Rock,A catchy and quirky pop song with a catchy melody and unique vocals.
+64,Blue Monday,New Order,Electronic,A pioneering and influential track in the world of electronic dance music.
+65,What a Wonderful World,Louis Armstrong,Jazz,A timeless and optimistic jazz song celebrating the beauty of life.
+66,Take Five,Dave Brubeck Quartet,Jazz,A cool and sophisticated jazz instrumental with a unique 5/4 time signature.
+67,A Night in Tunisia,Dizzy Gillespie,Bebop Jazz,A fast-paced and energetic bebop jazz standard with intricate melodies and improvisations.
+68,What a Feeling,Irene Cara,Pop,"A triumphant and uplifting song from the movie ""Flashdance."""
+69,I'm Gonna Wash That Man Right Outta My Hair,Rodgers & Hammerstein,Musical,"A playful and iconic song from the musical ""South Pacific."""
+70,Singin' in the Rain,Gene Kelly,Musical,A joyous and celebratory song about finding happiness even in the rain.
+71,Puttin' on the Ritz,Fred Astaire,Musical,A sophisticated and stylish song about getting dressed up for a night out.
+72,Over the Rainbow,Judy Garland,Musical,"A hopeful and yearning song from the movie ""The Wizard of Oz."""
+73,Hallelujah (Leonard Cohen version),Leonard Cohen,Folk Rock,A more stripped-down and introspective version of Hallelujah compared to other covers.
+74,Sound of Silence,Simon & Garfunkel,Folk Rock,A haunting and poetic song about isolation and communication breakdown.
+75,Bridge Over Troubled Water,Simon & Garfunkel,Folk Rock,A comforting and hopeful song offering support during difficult times.
+76,Mr. Blue Sky,Electric Light Orchestra (ELO),Rock,A bright and upbeat rock song celebrating a beautiful day.
+77,Don't Stop Me Now,Queen,Rock,A high-energy and flamboyant rock song about chasing dreams and defying limitations.
+78,We Will Rock You,Queen,Rock,An anthemic rock song with a simple and powerful chant.
+79,Like a Prayer (live version),Madonna,Pop,Another captivating live performance of Like a Prayer showcasing her captivating stage presence.
+80,I Follow Rivers,Lykke Li,Indie Pop,A dreamy and atmospheric indie pop song about following desires.
+81,Royals (stripped version),Lorde,Pop Rock,"A stripped-down and raw acoustic version of Royals, highlighting the emotion of the song."
+82,A Little Respect,Erasure,Synthpop,A catchy and empowering synthpop song demanding respect.
+83,Sweet Dreams (Are Made of This),Eurythmics,Synthpop,A dark and atmospheric synthpop song with a catchy melody.
+84,Take On Me,a-ha,Synthpop,A classic and iconic synthpop song with a memorable music video.
+85,Blue Suede Shoes,Elvis Presley,Rock and Roll,A high-energy and rebellious rock and roll song that launched Elvis' career.
+86,Hound Dog,Elvis Presley,Rock and Roll,Another energetic and playful rock and roll song by Elvis.
+87,Johnny B. Goode,Chuck Berry,Rock and Roll,A fast-paced and influential rock and roll song with a driving guitar riff.
+88,Whole Lotta Rosie,AC/DC,Hard Rock,A high-octane and raucous hard rock song about a powerful woman.
+89,Thunderstruck,AC/DC,Hard Rock,Another high-energy hard rock song with a memorable guitar intro.
+90,Crazy Train,Ozzy Osbourne,Heavy Metal,A dark and intense heavy metal song about losing sanity.
+91,Master of Puppets,Metallica,Heavy Metal,A complex and technically-demanding heavy metal song with dark themes.
+92,Enter Sandman,Metallica,Heavy Metal,A brooding and atmospheric heavy metal song about nightmares.
+93,Smells Like Teen Spirit (live version),Nirvana,Grunge,A raw and energetic live performance of Smells Like Teen Spirit capturing the band's raw energy.
+94,Basket Case,Green Day,Punk Rock,A fast-paced and rebellious punk rock song about anxiety and frustration.
+95,Blitzkrieg Bop,Ramones,Punk Rock,"The Ramones' ""Blitzkrieg Bop"" is a fast-paced, 3-chord punk anthem with a ""Hey ho! Let's go!"" chant, defining the genre's raw energy and rebellious spirit."
+96,What a Wonderful World (live version),Louis Armstrong,Jazz,A captivating live performance of What a Wonderful World showcasing Louis Armstrong's charisma and raspy vocals.
+97,Nuvole Bianche (Volare),Domenico Modugno,Italian Pop,A playful and optimistic Italian pop song with a catchy melody that became an international hit.
+98,La Vie en Rose,Edith Piaf,Chanson,A timeless and melancholic French song about love and loss with a touch of Parisian flair.
+99,Despacito (Remix),Luis Fonsi ft. Daddy Yankee & Justin Bieber,Latin Pop,A global smash hit combining Latin rhythms with pop sensibilities and Justin Bieber's smooth vocals.
+100,One More Time,Daft Punk,Electronic Dance Music,A hypnotic and futuristic electronic song that became a defining track of the French house movement.
+101,Gangnam Style,PSY,K-Pop,A quirky and catchy K-Pop song with a viral dance craze that took the world by storm.
+102,Jai Ho (You Are My Destiny),A. R. Rahman ft. Sukhwinder Singh & Mahalaxmi Iyer,Bollywood,"A high-energy and celebratory song from the movie ""Slumdog Millionaire"" that blends Indian sounds with Western influences."
+103,Pata Pata,Asha Bhosle,Bollywood,A playful and energetic Bollywood classic with a catchy rhythm and iconic dance moves.
+104,What a Difference a Day Makes,Dinah Washington,Jazz Blues,A beautiful and soulful ballad about the power of time and change.
+105,Fly Me to the Moon,Frank Sinatra,Swing,A smooth and sophisticated swing classic about longing for escape and romance.
+106,Dream a Little Dream of Me,The Mamas & the Papas,Folk Rock,A dreamy and melancholic folk song about longing and hope.
+107,California Dreamin',The Mamas & the Papas,Folk Rock,A sunny and optimistic song about yearning for the California lifestyle.
+108,Mr. Bojangles,Sammy Davis Jr.,Jazz Pop,A heartwarming and toe-tapping song about a talented tap dancer and the power of resilience.
+109,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,Soul,A powerful and uplifting duet about overcoming obstacles and achieving love.
+110,I Will Survive (live version),Gloria Gaynor,Disco,"Another electrifying live performance of I Will Survive, showcasing the song's enduring anthemic power."
+111,Le Freak,Chic,Disco,A funky and playful disco song celebrating individuality and the joys of dancing.
+112,Don't Stop 'Til You Get Enough,Michael Jackson,Pop,A high-energy and infectious dance song showcasing Michael Jackson's unique vocal style.
+113,Billie Jean (extended version),Michael Jackson,Pop,"An extended version of Billie Jean, providing more space for Michael Jackson's iconic moonwalk and instrumental exploration."
+114,Like a Virgin,Madonna,Pop,A controversial and provocative pop song that established Madonna as a pop icon.
+115,Sweet Child o' Mine (acoustic version),Guns N' Roses,Hard Rock,"A stripped-down and intimate acoustic version of Sweet Child o' Mine, highlighting the song's emotional core."
+116,November Rain,Guns N' Roses,Hard Rock,An epic and emotional ballad with soaring guitar solos and a dramatic piano outro.
+117,Smells Like Teen Spirit (acoustic version),Nirvana,Grunge,"An introspective and raw acoustic version of Smells Like Teen Spirit, stripping down the song's aggression to reveal its underlying vulnerability."
+118,Come As You Are,Nirvana,Grunge,A dark and brooding grunge anthem about alienation and self-acceptance.
+119,Lithium,Nirvana,Grunge,A chaotic and energetic grunge song with manic vocals and distorted guitars.
+120,Creep (acoustic version),Radiohead,Alternative Rock,"A haunting and stripped-down acoustic version of Creep, emphasizing the song's introspective lyrics and emotional depth."
+121,High and Dry,Radiohead,Alternative Rock,"A moody and atmospheric song with lyrics which are cryptic and open to interpretation, but they seem to express feelings of isolation, confusion, and yearning."
+122,What a Feeling (acoustic version),Irene Cara,Pop,"A stripped-down and intimate version of What a Feeling, highlighting the song's emotional core and powerful vocals."
+123,A Night in Tunisia (live version),Dizzy Gillespie,Bebop Jazz,A thrilling live performance of A Night in Tunisia showcasing Dizzy Gillespie's virtuosic bebop trumpet playing and the band's improvisational skills.
+124,Singin' in the Rain (Gene Kelly live version),Gene Kelly,Musical,"A captivating live performance of Singin' in the Rain by Gene Kelly, showcasing his iconic dance moves and infectious enthusiasm."
+125,Can't Help Falling in Love,Elvis Presley,Rock and Roll,"A sweet and romantic ballad by Elvis Presley, showcasing his softer side and smooth vocals."
+126,I Wanna Dance With Somebody (Who Loves Me) (live version),Whitney Houston,Pop,"Another electrifying live rendition of I Wanna Dance With Somebody, showcasing Whitney Houston's incredible vocal range and stage presence."
+127,Blue Skies,Willie Nelson,Country,"A laid-back and optimistic country song by Willie Nelson, celebrating hope and brighter days."
+128,Rhiannon (Fleetwood Mac version),Fleetwood Mac,Rock,"A haunting and mystical rock song by Fleetwood Mac, featuring Stevie Nicks's distinctive vocals and a captivating melody."
+129,Dreams,Fleetwood Mac,Rock Pop,"A dreamy and atmospheric rock song by Fleetwood Mac, exploring themes of love, loss, and self-discovery."
+130,Hotel California (live version),Eagles,Rock,"A mesmerizing live performance of Hotel California, capturing the song's epic atmosphere and extended guitar solo."
+131,Wish You Were Here,Pink Floyd,Progressive Rock,"A beautiful and melancholic progressive rock song by Pink Floyd, reflecting on loss and absence."
+132,Comfortably Numb,Pink Floyd,Progressive Rock,"A dark and atmospheric progressive rock song by Pink Floyd, exploring themes of alienation and pain."
+133,Bohemian Rhapsody (live version),Queen,Rock,"A legendary live performance of Bohemian Rhapsody, showcasing Queen's musical complexity and Freddie Mercury's charismatic stage presence."
+134,We Are the Champions,Queen,Rock,"An anthemic rock song by Queen, celebrating perseverance and achieving goals."
+135,Don't Look Back in Anger (live version),Oasis,Britpop,"A powerful live performance of Don't Look Back in Anger, emphasizing the song's hopeful and uplifting message."
+136,Champagne Supernova (live version),Oasis,Britpop,"A mesmerizing live rendition of Champagne Supernova, showcasing the song's epic structure and Noel Gallagher's distinctive guitar work."
+137,Walking on Sunshine,Katrina & The Waves,Pop Rock,A bright and upbeat pop rock song with a catchy melody and optimistic lyrics.
+138,Mr. Blue Sky (live version),Electric Light Orchestra (ELO),Rock,"A captivating live performance of Mr. Blue Sky, bringing the song's energy and intricate orchestration to life."
+139,Don't Stop Believin' (live version),Bon Jovi,Rock,"An electrifying live rendition of Don't Stop Believin', showcasing the song's anthemic power and audience singalong potential."
+140,Livin' on a Prayer (acoustic version),Bon Jovi,Rock,"A stripped-down and intimate acoustic version of Livin' on a Prayer, revealing the song's emotional core and vulnerability."
+141,I Follow Rivers (live version),Lykke Li,Indie Pop,"A captivating live performance of I Follow Rivers, showcasing the song's dreamlike atmosphere and Lykke Li's captivating vocals."
+142,Take On Me (live version),a-ha,Synthpop,"A high-energy live rendition of Take On Me, replicating the song's iconic melody and visuals."
+143,Whole Lotta Rosie (live version),AC/DC,Hard Rock,"A ferocious live performance of Whole Lotta Rosie, showcasing AC/DC's raw energy and Angus Young's electrifying guitar playing."
+144,Thunder,Imagine Dragons,Alternative Rock,This song is a high-energy anthem about overcoming challenges and finding your own path.
+145,A Forest,The Cure,Gothic Rock,"A dark and atmospheric song with shimmering guitars and Robert Smith's signature vocals, exploring themes of isolation and longing."
+146,Zombie (live version),The Cranberries,Alternative Rock,"A powerful and emotional live performance of Zombie, amplifying the song's message against war."
+147,Losing My Religion (acoustic version),R.E.M.,Alternative Rock,"A stripped-down and introspective acoustic version of Losing My Religion, highlighting the song's haunting melody and introspective lyrics."
+148,Smells Like Teen Spirit (MTV Unplugged version),Nirvana,Grunge,"An intimate and raw unplugged performance of Smells Like Teen Spirit, showcasing the song's vulnerability and Kurt Cobain's emotional delivery."
+149,Basket Case (live version),Green Day,Punk Rock,"A ferocious live performance of Basket Case, capturing the band's raw energy and punk rock spirit."
+150,Should I Stay or Should I Go,The Clash,Punk Rock,A catchy and energetic punk rock anthem about relationship uncertainty.
+151,London Calling,The Clash,Punk Rock,A powerful and anthemic punk rock song criticizing social and political issues.
+152,Jump,Van Halen,Hard Rock,A high-energy and iconic hard rock song with a killer guitar solo and David Lee Roth's charismatic vocals.
+153,Back in Black (live version),AC/DC,Hard Rock,"A blistering live performance of Back in Black, showcasing the band's raw power and Angus Young's electrifying guitar work."
+154,War Pigs,Black Sabbath,Heavy Metal,A dark and brooding heavy metal song with a powerful anti-war message.
+155,Crazy Train (live version),Ozzy Osbourne,Heavy Metal,"A ferocious live performance of Crazy Train, capturing Ozzy Osbourne's stage presence and the song's aggressive energy."
+156,Master of Puppets (live version),Metallica,Heavy Metal,"A technically-demanding and intense live performance of Master of Puppets, showcasing Metallica's musical proficiency."
+157,Enter Sandman (live version),Metallica,Heavy Metal,"A dark and atmospheric live performance of Enter Sandman, recreating the song's haunting soundscape."
+158,Killing in the Name,Rage Against the Machine,Rap Metal,A powerful and politically charged rap metal song against racism and social injustice.
+159,Bulls on Parade,Rage Against the Machine,Rap Metal,"Another high-energy rap metal song by Rage Against the Machine, criticizing war and social control."
+160,Smells Like Teen Spirit (demo version),Nirvana,Grunge,"A raw and unpolished demo version of Smells Like Teen Spirit, offering a glimpse into the song's early stages and Kurt Cobain's creative process."
+161,Lithium (live version),Nirvana,Grunge,"A chaotic and energetic live performance of Lithium, showcasing the song's raw energy and Kurt Cobain's powerful vocals."
+162,Creep (live version),Radiohead,Alternative Rock,"A captivating live rendition of Creep, showcasing the song's raw emotion and audience connection."
+163,Paranoid Android,Radiohead,Alternative Rock,"A complex and experimental song by Radiohead, featuring multiple sections and genre-bending elements."
+164,Karma Chameleon (live version),Culture Club,Pop Rock,"A high-energy live performance of Karma Chameleon, capturing the song's playful spirit and catchy melody."
+165,Blue Monday (live version),New Order,Electronic,"A mesmerizing live performance of Blue Monday, showcasing the song's innovative use of synthesizers and captivating atmosphere."
+166,What a Difference a Day Makes (live version),Dinah Washington,Jazz Blues,"A captivating and soulful live performance of What a Difference a Day Makes, showcasing Dinah Washington's powerful vocals and emotional delivery."
+167,Fly Me to the Moon (live version),Frank Sinatra,Swing,"A smooth and sophisticated live performance of Fly Me to the Moon, capturing Frank Sinatra's charisma and timeless vocals."
+168,Lemon,Kenshi Yonezu,J-Pop,"A melancholic yet hopeful ballad with beautiful piano melodies, exploring themes of love, loss, and moving forward."
+169,Gurenge (紅蓮華),LiSA,Anime Song (Demon Slayer: Kimetsu no Yaiba),"A high-energy rock song with powerful vocals and driving guitars, perfectly capturing the intensity of the Demon Slayer anime."
+170,Chiru (散る),Yuuri,Folk Pop,"A gentle and emotional song with a focus on traditional Japanese instruments like the shakuhachi (bamboo flute), conveying feelings of fleeting beauty and acceptance."
+171,Pretender,Official髭男dism (Official Hige Dandism),J-Rock,A catchy and uplifting rock song with a positive message about chasing dreams and overcoming challenges.
+172,Inochi no Namae (命の名前),Mr. Children,J-Rock,A powerful rock ballad with soaring vocals and emotional lyrics about the preciousness of life and the importance of human connection.
+173,Hana (花),Sakanaction,Alternative Rock,"A complex and atmospheric song with layered instrumentation and poetic lyrics, exploring themes of growth and change."
+174,PA声音 (PA Voice),YOASOBI,Vocaloid Pop,"A catchy and upbeat song featuring the vocals of the virtual singer Miku Hatsune, with lyrics about overcoming self-doubt and finding your voice."
+175,Tsubasa (翼),Yumi Matsutoya (Yuming),City Pop,"A smooth and sophisticated jazz-influenced song with a touch of nostalgia, celebrating freedom and youthful dreams."
+176,Sakura (桜),Ichiko Aikawa,Enka,"A classic Enka ballad with heartfelt vocals and traditional Japanese instruments, reflecting on themes of love, loss, and the passage of time."
+177,Time Machine,ORANGE RANGE,Ska Punk,"A high-energy and playful song with a blend of ska and punk influences, perfect for getting your groove on."
+178,Hikaru Nara (ひかるなら),Goose house feat. yaなぎなぎ (Yanaginagi),Vocaloid Pop,"A beautiful and emotional song featuring the vocals of Yanaginagi and Miku Hatsune, expressing a longing for a brighter future."
+179,365 Nichi no March (365日のマーチ),Kiyohiko Okamoto,Kayokyoku,"A cheerful and optimistic song with a simple melody and bright instrumentation, encouraging perseverance and pursuing your goals."
+180,Inochi ni Fusaete (命にふさわしい),Spitz,Rock,A powerful and hopeful rock song with a message about resilience and finding strength in challenging times.
+181,Aoiイト (Aoi Ito),Aimer,Anime Song (Sword Art Online),"A melancholic yet uplifting ballad with beautiful vocals and piano melodies, capturing the emotional journey of the Sword Art Online characters."
+182,Departure (旅立ち),Sukima Switch,J-Pop,A bittersweet and nostalgic song about leaving behind the past and embracing new beginnings.
+183,Shangri-La,amazarashi,Alternative Rock,A thought-provoking song with socially conscious lyrics and a dark yet captivating soundscape.
+184,Yuenchi Bumpy (ユエンチ Bumpy),BUMP OF CHICKEN,Rock,"A high-energy rock song with driving guitars and powerful vocals, conveying a message of hope and determination."
+185,Orion (オリオン),Mr. Children,J-Rock,"A beautiful and melancholic ballad with acoustic guitar and piano, reflecting on themes of loss and finding comfort in memories."
+186,Choo Choo TRAIN,EXILE,J-Pop,"A catchy and fun dance song with a blend of electronic and pop elements, perfect for a party."
+187,Lines,Kenshi Yonezu,J-Pop,"Another song by Kenshi Yonezu, this one with a more electronic and dance-oriented sound, focusing on themes of self-discovery and finding your place in the world."
+188,Peace Sign,Kenshi Yonezu,J-Pop,"Yet another song by the multi-talented Kenshi Yonezu, this one a hopeful and uplifting anthem about peace, unity."
+189,Rapport (ラポール),King Gnu,J-Rock,"A funky and groove-oriented rock song with a blend of soul and jazz influences, showcasing King Gnu's tight musicianship."
+190,Pretender (アコースティック Ver.),Official髭男dism (Official Hige Dandism),J-Rock,"This acoustic version of ""Pretender"" offers a more stripped-down and intimate feel, highlighting the raw emotion in the vocals and melody."
+191,Okaeri (おかえり),Yuzu,Folk Rock,A heartwarming and nostalgic folk-rock song about homecoming and the joy of reuniting with loved ones.
+192,I Love You,いきものがかり (Ikigai Bokura),J-Pop,"A sweet and sincere love song with a catchy melody and optimistic lyrics, perfect for expressing your feelings."
+193,Senbonzakura (千本桜),Vocaloid,Vocaloid Pop,"A visually stunning Vocaloid song with vibrant electronic sounds and Miku Hatsune's energetic vocals, depicting a breathtaking scene of a thousand cherry blossoms."
+194,Habit (ハビット),SEKAI NO OWARI,J-Rock,"A hauntingly beautiful song with dark and atmospheric elements, exploring themes of loneliness and societal pressures."
+195,Lemon (English Ver.),Kenshi Yonezu,J-Pop,"This English version of ""Lemon"" stays true to the original's emotional core while allowing international audiences to connect with the song's message."
+196,"Komm, süßer Tod (English Ver.)",Yōko Kanno feat. Susanne Böhm,Anime Song (Evangelion),"A hauntingly beautiful song from the Evangelion anime, with operatic vocals and a blend of orchestral and electronic elements. This is the English version of the originally German song."
+197,Rinne (輪廻),Gackt,J-Rock,"A dramatic and flamboyant rock song by Gackt, known for his elaborate costumes and theatrical performances."
+198,Yakitori (焼鳥),Masaharu Fukuyama,J-Pop,"A fun and lighthearted song by Masaharu Fukuyama, celebrating the joy of Japanese street food culture, particularly yakitori (grilled chicken skewers)."
+199,Hana wa no Mai (花は咲く),DREAMS COME TRUE,J-Pop,"A hopeful and uplifting anthem by DREAMS COME TRUE, encouraging perseverance and believing in a brighter future."
+200,Sakurairo no Yume (桜色の夢),L'Arc~en~Ciel,J-Rock,"A dreamy and melancholic rock ballad by L'Arc~en~Ciel, with layered guitars and soaring vocals, evoking a sense of nostalgia and longing."
+201,Sobakasu (そばかす),Judy and Mary,Rock,"A catchy and energetic rock song by Judy and Mary, tackling themes of individuality and embracing your true self."
+202,Linear (リニア),Fujii Kaze,R&B,"A smooth and soulful R&B song by Fujii Kaze, showcasing his impressive vocal range and songwriting skills."
+203,PONPONPON (ぽっぽっぽん),Kyary Pamyu Pamyu,J-Pop,"A quirky and playful song by Kyary Pamyu Pamyu, known for her Kawaii (cute) aesthetic and eccentric music videos."
+204,Ageha蝶 (Agehachō),Ado,Vocaloid Pop,"A powerful and energetic song featuring the vocals of Ado, exploring themes of personal growth and breaking free from limitations."
+205,Gingira Gingira Parade (ギンギラギンギラパーレード),Hitoshi Matsumoto (ダウンタウン松本人志),Comedy Song,"A comedic and nonsensical song by comedian Hitoshi Matsumoto, featuring repetitive lyrics and a catchy melody."
+206,World Domination (世界征服),Golden Bomber,Comedy Rock,"Another comedic entry, this time by the outrageous band Golden Bomber. Expect goofy lyrics, outrageous costumes, and a high dose of humor."
+207,Cha-La Head Cha (ラ・ラ・ラ サークル),Shôzô Iizuka,Anime Song (Dragon Ball Z),A fast-paced and energetic rock song with a catchy melody. It is a classic and iconic anime theme song that pumps you up with its optimistic and determined lyrics.
+208,Spring Day (봄날),BTS,K-Pop,"A melancholic yet hopeful song reflecting on missing a loved one, featuring beautiful vocals and a blend of hip-hop and pop elements."
+209,Blueming (청하),IU,K-Pop,"A cheerful and optimistic song about finding joy in the everyday moments, with a catchy melody and bright instrumentation."
+210,Celebrity,IU,K-Pop,"A satirical and playful song reflecting on the pressures and double standards of being a celebrity, with a groovy bassline and witty lyrics."
+211,Eight (에잇),IU ft. Suga (BTS),K-Pop,"A heartwarming and nostalgic song about cherishing long-lasting friendships, with soulful vocals and a laid-back hip-hop beat."
+212,Love Scenario (사랑의 시나리오),iKON,K-Pop,"A sweet and romantic song about the early stages of love, featuring a catchy chorus and a blend of pop and R&B influences."
+213,Kill This Love,BLACKPINK,K-Pop,"A powerful and fierce song about female empowerment and breaking free from limitations, with intense rap verses and a driving electronic beat."
+214,Dingga (딩가),(G)I-DLE,K-Pop,"A fun and quirky song celebrating individuality and following your own path, featuring a unique blend of genres and playful lyrics."
+215,Oh My God,(G)I-DLE,K-Pop,"Another track by (G)I-DLE, this one with a darker and more mysterious vibe, exploring themes of self-discovery and overcoming challenges."
+216,Fear (피어),Seventeen,K-Pop,"A powerful and energetic song showcasing Seventeen's synchronized choreography, with a mix of hip-hop and EDM influences."
+217,Very Nice,SEVENTEEN,K-Pop,A fun and catchy song by SEVENTEEN highlighting their playful personalities and energetic stage presence.
+218,Dinosaur (다이너사워),AKMU,K-Pop,"A quirky and playful song by sibling duo AKMU, with a unique blend of genres and witty lyrics that explore themes of youth and individuality."
+219,Loser (연기),BIGBANG,K-Pop,"A soulful and introspective song about heartbreak and self-reflection, with powerful vocals and a blend of hip-hop and R&B influences."
+220,Haru Haru (하루하루),BIGBANG,K-Pop,"A classic K-Pop song by BIGBANG with a catchy melody and energetic dance moves, showcasing their charismatic stage presence."
+221,Mom (엄마),Heize,R&B,"A heartfelt and emotional song dedicated to mothers, featuring beautiful vocals and a soulful melody."
+222,Through the Night (밤편),IU,Ballad,"A beautiful and melancholic ballad about longing and unrequited love, with soaring vocals and a stripped-down piano arrangement."
+223,Sober (술청),DAY6,Rock,"A powerful and emotional rock song with raw vocals and driving guitars, exploring themes of heartbreak and healing."
+224,Zombie (좀비),DAY6,Rock,"A more playful and energetic rock song by DAY6, with catchy riffs and a fun, zombie-themed music video."
+225,Beautiful (아름다운),Crush ft. LOCO,Hip-Hop,"A smooth and soulful hip-hop song celebrating the beauty of everyday life, featuring a catchy chorus and thoughtful lyrics."
+226,Don't Wanna Cry (울고 싶지 않아),SEVENTEEN,K-Pop,"A powerful and emotional ballad about overcoming challenges and finding strength, featuring soaring vocals and a building orchestral arrangement."
+227,Move (음),Taemin,K-Pop,"A seductive and captivating song showcasing Taemin's impressive dance skills and smooth vocals, with a blend of R&B and electronic influences."
+228,Naughty Boy (장난꾸러기),Apink,K-Pop,"A cute and playful song by Apink perfect for summertime, with a bright melody and energetic vocals."
+229,TT,TWICE,K-Pop,"The song features a bright and bubbly melody with prominent electronic elements.The vocals are high-pitched and energetic, reflecting the song's playful nature."
+230,A Fuego lento,Rosalia,Latin Pop,A sensual and rhythmic song with a blend of flamenco and electronic influences.
+231,Colgando en tus manos,Carlos Baute feat. Marta Sánchez,Pop Latino,A catchy and upbeat song about a passionate love affair.
+232,La bicicleta,Shakira feat. Carlos Vives,Pop Latino / Champeta,A fun and energetic song with Colombian rhythms celebrating love and friendship.
+233,Volverás,Juan Luis Guerra,Bachata,A romantic and melancholic bachata about longing for a lost love.
+234,Bailando,Enrique Iglesias feat. Sean Paul,Latin Pop / Dance,A global hit song with a catchy melody and dance-floor vibes.
+235,Oye Como Va,Celia Cruz,Salsa,A classic salsa song with infectious rhythms and Celia Cruz's powerful vocals.
+236,Vivir Mi Vida,Marc Anthony,Salsa,An upbeat and empowering salsa song about living life to the fullest.
+237,La Tortura,Shakira feat. Alejandro Sanz,Pop Latino,A passionate and dramatic song about a tumultuous love affair.
+238,Corazón Partío,Alejandro Sanz,Pop Latino,A beautiful and emotional ballad about a broken heart.
+239,Me Enamoré,Shakira,Pop Latino / Worldbeat,A catchy and energetic song with global influences celebrating love.
+240,Tu Recuerdo,Ricky Martin,Pop Latino,A romantic ballad about cherishing the memories of a past love.
+241,Amante Bandido,Alaska y Dinarama,Pop Rock,A playful and rebellious song from the Spanish new wave era.
+242,La Flaca,J Balvin,Reggaeton,A catchy and high-energy reggaeton song about a beautiful woman.
+243,Hija de la Luna,Mecano,Pop Rock,A dramatic and theatrical song about a forbidden love story.
+244,María de la Luz,Maná,Rock Pop Latino,A powerful and emotional rock ballad about a woman facing struggles.
+245,La Carencia,Calle 13,Rap Latino,A thought-provoking and socially conscious rap song about social and economic inequality.
+246,Volver a Empezar,Calle 13 feat. Silvio Rodríguez,Rap Latino / Latin Pop,"A song reflecting on second chances and starting over, featuring a collaboration between Calle 13 and the legendary Cuban singer Silvio Rodríguez."
+247,Bachata Rosa,Juan Luis Guerra,Bachata,A romantic and sensual bachata about love and desire.
+248,La Vida Sin Ti,Víctor Manuel,Bolero,A classic and melancholic bolero about heartbreak and loss.
+249,Alfonsina y el Mar,Mercedes Sosa,Folk,"A beautiful and poetic folk song about Alfonsina Storni, a famous Argentine poet."
+250,Oye Como Va (Live at Montreux 1977),Santana,Latin Rock,"A live rendition of ""Oye Como Va"" by the legendary rock band Santana, showcasing their powerful guitar work and Latin influences."
+251,Tu Nombre Me Sabe a Hierba,Mecano,Pop Rock,A playful and humorous song with a double entendre title (Your Name Tastes Like Weed).
+252,A Pesar de Todo,Shakira,Pop Latino / Rock,An empowering and anthemic song about overcoming challenges.
+253,La Gozadera,Gente de Zona feat. Marc Anthony,Cubaton,A high-energy and infectious Cubaton song guaranteed to get you moving.
+254,A Dónde Van Las Flores,Mano Negra,Rock Alternativo,"A powerful rock song with social commentary, questioning societal injustices."
+255,Ojalá,Silvio Rodríguez,Nueva Trova,A beautiful and hopeful song wishing for a better future.
+256,Volare,Gipsy Kings,Rumba Flamenca,"A lively and celebratory rumba flamenca rendition of the Italian classic ""Volare."""
+257,Yo Te Amo,Puerto Rican,Latin Pop,"A Spanish phrase meaning ""I love you."" It's a direct and powerful way to express strong love and commitment, often reserved for romantic partners or close family."
+258,Kun Faya Kun,A.R. Rahman,Sufi Rock,"A powerful and spiritual song from the movie “Rockstar,” with a blend of rock and Sufi influences."
+259,Saansein (female),Sunidhi Chauhan,Classical Fusion,"A beautiful and melancholic song from the movie “Gangster,” featuring soulful female vocals and classical Indian instruments."
+260,Chahoon Main Ya Na,Shreya Ghoshal,Romantic Ballad,"A heartfelt and emotional song from the movie “Aashiqui 2,” expressing the complexities of love."
+261,London Thumakda,Asha Bhosle & Udit Narayan,Retro Bollywood,"A fun and energetic song from the movie “Queen,” perfect for a party with its catchy melody and retro Bollywood vibes."
+262,Aao Balmaa,Mohit Chauhan,Folk Fusion,"A soulful and romantic song from the movie “Jolly LLB 2,” featuring a blend of folk and modern elements."
+263,Mashaal,A.R. Rahman & Sid Sriram,Contemporary Classical,"A mesmerizing and visually stunning song from the movie “Jodhaa Akbar,” featuring intricate classical arrangements and powerful vocals."
+264,Kar Har Maidan Fateh,Sukhwinder Singh,Patriotic Song,"A high-energy and motivational song from the movie “Sanju,” celebrating resilience and determination."
+265,Chadhti Jawani,Amitabh Bachchan,Classic Bollywood,"A timeless and energetic song from the movie “Silsila,” showcasing the iconic voice of Amitabh Bachchan."
+266,Saavn (female),Kanika Kapoor,Indi-Pop,"A catchy and upbeat song from the movie “Ek Paheli Leela,” featuring elements of Indian classical music and modern pop sounds."
+267,Bulleya,Vishal Bhardwaj & Rekha Bhardwaj,Sufi Rock,"A soulful and mystical song from the movie “Ae Dil Hai Mushkil,” with a blend of rock and Sufi elements."
+268,Senorita,Hrithik Roshan & Shreya Ghoshal,Romantic Fusion,"A playful and romantic song from the movie “Zindagi Na Milegi Dobara,” featuring a mix of Spanish and Indian elements."
+269,Chak De! India,Sukhwinder Singh,Patriotic Pop,"A high-energy and inspiring song from the movie “Chak De! India,” celebrating the journey of the Indian women’s hockey team."
+270,Gerua,Arijit Singh & Shreya Ghoshal,Romantic Ballad,"A hauntingly beautiful and passionate song from the movie “Dilwale,” exploring the complexities of love and longing."
+271,Kabira Hoon,Mohit Chauhan,Sufi Rock,"A soulful and uplifting song from the movie “Yeh Jawaani Hai Deewani,” celebrating the philosophy of Kabir Das."
+272,Kala Chashma,"Amar Arshi, Badshah & Neha Kakkar",Punjabi Pop,A catchy and high-energy Punjabi pop song with a fun and vibrant music video.
+273,Arijit Singh Medley,Arijit Singh,Romantic Mix,"A compilation of some of Arijit Singh’s most popular and romantic songs, perfect for a relaxed and emotional listening experience."
+274,Lag Jaa Gale,Lata Mangeshkar,Classic Bollywood,"A timeless and romantic song from the movie “Woh Kaun Thi,” showcasing the legendary vocals of Lata Mangeshkar."
+275,Tu Hi Meri Shab,Arijit Singh & Shreya Ghoshal,Romantic Ballad,"A heartfelt and emotional song from the movie “Gangster,” expressing the depth of love and commitment."
+276,Chura Liya Hai,R.D. Burman,Classic Disco,"A groovy and fun disco song from the movie “Yaadon Ki Baaraat,” showcasing the iconic music style of R.D. Burman."
+277,Luka Chuppi,Dhvani Bhanushali & Asees Kaur,Indi-Pop,"A catchy and playful love song from the movie “Luka Chuppi,” highlighting a fun and youthful vibe."
+278,Jai Ho,A.R. Rahman & Sukhwinder Singh,Patriotic Pop,"An uplifting and celebratory song from the movie “Slumdog Millionaire,” celebrating the spirit of hope and victory."
+279,Tu Jaane Na,Pritam & Atif Aslam,Romantic Ballad,A heartfelt and yearning romantic ballad that expresses the complexities of unspoken emotions in love.
+280,Raanjhanaa,A.R. Rahman & Jaswinder Singh,Sufi Rock,"A soulful and passionate song from the movie “Raanjhanaa,” blending Sufi elements with a modern rock sound."
+281,Chhoti Si Asha,Lata Mangeshkar & Kishore Kumar,Classic Bollywood,"A hopeful and cheerful song from the movie “Roja,” celebrating the simple joys of life."
+282,Maahi Ve,Shreya Ghoshal & Sonu Nigam,Romantic Ballad,"A soulful and melodic song from the movie “Kal Ho Naa Ho,” expressing deep love and devotion."
+283,Ainvayi Ainvayi,Sunidhi Chauhan & Mika Singh,Indi-Pop,"A fun and energetic dance song from the movie “Band Baaja Baaraat,” perfect for a Bollywood party."
+284,Tare Zameen Par,Shankar-Ehsaan-Loy & Aamir Khan,Inspirational Ballad,"A heartwarming and uplifting song from the movie “Taare Zameen Par,” celebrating the importance of understanding and nurturing individuality."
+285,London Thumakda (Male),Labh Janjua,Retro Bollywood,"Another version of the popular song “London Thumakda,” this time sung by a male vocalist, offering a different perspective on the fun and energy of the song."
+286,Radha,"Shreya Ghoshal, Vishal Dadlani, Shekhar Ravjiani & Udit Narayan",Folk Fusion,"A soulful and romantic song from the movie “Student of the Year,” featuring a blend of folk and modern elements with a focus on Radha-Krishna devotion."
+287,Tu Hi Meri Kiran,Atif Aslam & Shreya Ghoshal,Romantic Ballad,"A beautiful and emotional song from the movie “Darr,” expressing the power of love and hope."
+288,Galliyan,Ankit Tiwari,Sufi Rock,"A haunting and atmospheric song from the movie “Ek Villain,” with a blend of Sufi influences and a modern rock sound."
+289,Swag Se Swagat,Vishal Dadlani & Neha Bhasin,Dance Pop,"A high-energy and celebratory song from the movie “Tiger Zinda Hai,” perfect for getting the party started."
+290,Gerua (Female),Shreya Ghoshal,Romantic Ballad,"The female version of the popular song “Gerua,” offering a different vocal perspective on the depth and passion of the love story."
+291,Aaj Phir Tum Pe,Pankaj Udhas & Anuradha Paudwal,Classic Bollywood,"A timeless and romantic song from the movie “Dayavan,” showcasing the charming vocals of Pankaj Udhas and Anuradha Paudwal."
+292,Malang - Title Track,Ved Sharma,Sufi Rock,"A high-energy and captivating song from the movie “Malang,” with a blend of Sufi influences and a modern rock sound."
+293,Yaar Bina,KK,Romantic Ballad,"A heartfelt and emotional song from the movie “Aashiq Banaya Aapne,” expressing the pain of separation and longing for a loved one."
+294,Bandeyaa,Jubin Nautiyal,Devotional Song,"A beautiful and devotional song from the movie “Jazbaa,” celebrating the power of faith and devotion."
+295,Sunidhi Chauhan Medley,Sunidhi Chauhan,Female Power Mix,"A compilation of some of Sunidhi Chauhan’s most popular and energetic songs, highlighting her powerful vocals and versatility."
+296,Chura Ke Dil Mera,Udit Narayan &amp; Alka Yagnik,Classic Bollywood,"A playful and romantic song from the movie “Main Khiladi Tu Anari,” showcasing the classic Bollywood style."
+297,Dil Bechara,A.R. Rahman &amp; Arijit Singh,Romantic Ballad,"A beautiful and emotional song from the movie “Dil Bechara,” expressing the fragility and bittersweetness of love."
+298,Kar Gayi Chull,Pritam &amp; Neha Kakkar,Dance Pop,"A catchy and energetic party song from the movie “Kapoor &amp; Sons,” perfect for getting the dance floor moving."
+299,Saathiya,Shreya Ghoshal,Romantic Ballad,"A beautiful and melancholic version of the classic song “Saathiya” from the movie “Saathiya,” sung by Shreya Ghoshal and capturing the emotional depth of the love story."
+300,Yeh Mera Deewanapan,Lata Mangeshkar &amp; Kishore Kumar,Classic Bollywood,"A playful and flirtatious song from the movie “Prem Rog,” showcasing the classic Bollywood romance."
+301,Chahoon Main Ya Na (Male),KK,Romantic Ballad,"A male version of the popular song “Chahoon Main Ya Na,” offering a different vocal perspective on the complexities of love."
+302,Piya Tu Saanjh Mein,Shreya Ghoshal & Roop Kumar Rathod,Romantic Ghazal,"A beautiful and poetic ghazal from the movie “Saawariya,” with soulful vocals and lyrics exploring the pain of separation."
+303,Senorita (Female),Shreya Ghoshal,Romantic Fusion,"The female version of the popular song “Senorita,” highlighting the playful and romantic energy with Shreya Ghoshal’s vocals."
+304,Tu Bole,A.R. Rahman & Rekha Bhardwaj,Sufi Rock,"A soulful and mystical song from the movie “Jaane Tu… Ya Jaane Na,” with a blend of Sufi elements and modern rock influences."
+305,Jumme Ki Raat,Rahat Fateh Ali Khan & Asees Kaur,Sufi Pop,"A catchy and danceable song with Sufi influences, popularized by the movie “Kick.”"
+306,Dilwale Dulhania Le Jayenge - Title Track,Nadeem-Shravan & Kumar Sanu & Alka Yagnik,Classic Bollywood,"The iconic title track from the movie “Dilwale Dulhania Le Jayenge,” a timeless classic of Bollywood romance."
+307,Mast Magan,Arijit Singh & Chinmayi Sripada,Romantic Ballad,"A soulful and passionate song from the movie “2 States,” featuring a blend of modern elements and emotional vocals."
+308,Kal Ho Naa Ho - Title Track,Shankar-Ehsaan-Loy & Sonu Nigam,Romantic Ballad,"The title track from the movie “Kal Ho Naa Ho,” a beautiful and emotional song about cherishing the present."
+309,London Thumakda (Unplugged),"Labh Janjua, Sonu Kakkar & Neha Kakkar",Retro Bollywood (Acoustic),"An unplugged version of the popular song “London Thumakda,” offering a stripped-down and intimate acoustic rendition."
+310,Challa,Rabbi Shergill,Sufi Rock,"A powerful and energetic song from the movie “Jab Tak Hai Jaan,” featuring a blend of Sufi influences and a modern rock sound."
+311,Nazm Nazm,Arko,Romantic Ballad,"A heartfelt and emotional song from the movie “Bareilly Ki Barfi,” expressing the innocence and joy of young love."
+312,Soni Soni (Acoustic),A.R. Rahman & Chinmayi,Romantic Fusion (Acoustic),"An unplugged version of the popular song “Soni Soni” from the movie “Raanjhanaa,” offering a more intimate and emotional experience."
+313,Disco Dancer,Bappi Lahiri & Vijay Benedict,Disco,"A classic and energetic disco song from the movie “Disco Dancer,” showcasing the iconic music style of the 80s."
+314,Tere Naina,Shafqat Amanat Ali,Romantic Ballad,"A beautiful and emotional song from the movie “My Name Is Khan,” featuring soulful vocals and lyrics about love at first sight."
+315,Aankhon Hi Aankhon Mein,Lata Mangeshkar & Mohammed Rafi,Classic Bollywood,"A timeless and romantic song from the movie “C.I.D.,” showcasing the legendary vocals of Lata Mangeshkar and Mohammed Rafi."
+316,Luka Chuppi (Female),Lata Mangeshkar,Indi-Pop,"The female version of the popular song “Luka Chuppi,” highlighting a playful and youthful vibe with Lata Mangeshkar’s vocals."
+317,Bang Bang,Benny Dayal & Neeti Mohan,Dance Pop,"A high-energy and catchy song from the movie “Bang Bang!,” perfect for getting the party started."
+318,Hawa Hawa,Hassan Jahangir,Bollywood / Pop,"A high-energy and celebratory song from the movie “Mubarakan,” featuring playful vocals and a dance-worthy beat."
+319,Yaariyan,Arijit Singh & Mohan Kanan,Romantic Pop,"A heartfelt and emotional song about cherishing friendships, from the movie “Cocktail,” featuring a blend of pop and Sufi elements."
+320,Suit,Guru Randhawa & Bohemia,Hip-Hop,"A high-energy and catchy hip-hop song by Guru Randhawa and Bohemia, known for its vibrant beats and Punjabi-English fusion."
+321,Mann Bharrya,B Praak,Romantic Folk,"A soulful and poignant Punjabi song about love and loss, sung by B Praak with heartfelt lyrics by Jaani."
+322,Lehanga,Jass Manak,Folk Pop,"A popular Punjabi song by Jass Manak that became a wedding favorite, celebrating the joyous occasion with catchy lyrics and upbeat music."
+323,Akh,Diljit Dosanjh,Romantic Pop,"A romantic Punjabi song by Diljit Dosanjh that highlights his smooth vocals and charm, capturing the essence of falling in love."
+324,Patola,Guru Randhawa & Bohemia,Hip-Hop,"A fusion hip-hop track by Guru Randhawa featuring Bohemia, known for its catchy hook and stylish music video."
+325,Qismat,Ammy Virk,Sufi Pop,"A deeply emotional Punjabi song by Ammy Virk that speaks about destiny and the unpredictability of life, with a touching music video."
+326,Chandigarh Kare Aashiqui,Jassi Sidhu,Romantic Ballad,"A romantic song that captures the essence of the city Chandigarh and the feeling of falling in love, with a lively beat and catchy lyrics."
+327,Sau Sau Din,Jasleen Royal,Hip-Hop/Pop,"A song that combines Jasleen Royal’s melodious voice with Divine’s rap, creating a unique sound that explores themes of love and time."
+328,Gallan Goodiyaan,Shankar-Ehsaan-Loy,Bhangra,"A high-energy Bhangra track from the movie “Dil Dhadakne Do,” perfect for celebrations and dance parties."
+329,Dil Diyan Gallan,Atif Aslam,Sufi Rock,"A soul-stirring song from the movie “Tiger Zinda Hai,” sung by Atif Aslam, featuring beautiful lyrics and a Sufi touch."
+330,Mirza - Title Track,Gippy Grewal,Folk Pop,"A song that retells the classic love story of Mirza Sahiban, with a modern twist and Gippy Grewal’s energetic performance."
+331,Lagdi Lahore Di,Guru Randhawa,Romantic Folk,"A catchy song by Guru Randhawa that celebrates the beauty of Lahore and the feeling of love, with a fun music video."
+332,Suit Suit (Female),Neha Kakkar,Pop,"The female version of the hit song “Suit,” sung by Neha Kakkar, adding a fresh perspective to the upbeat track."
+333,Proper Patola,Badshah & Aastha Gill,Hip-Hop/Pop,"A popular song by Badshah featuring Aastha Gill, known for its catchy beats and stylish music video."
+334,Ik Milli Chamkti Hai,Gippy Grewal & Jasmine Sandlas,Romantic Pop,"A romantic song that captures the feeling of newfound love, with Gippy Grewal and Jasmine Sandlas’s vocals."
+335,Nachdi Phirangi,Meet Bros & Kanika Kapoor,Bhangra Pop,"A party song that combines Bhangra beats with pop elements, sung by Meet Bros and Kanika Kapoor."
+336,Ishq,Sukhwinder Singh,Sufi Rock,"A powerful song by Sukhwinder Singh that explores the depth of love and devotion, with a blend of Sufi and rock elements."
+337,Coca Cola Tu,Tony Kakkar & Neha Kakkar,Hip-Hop,"A fun and energetic song by Tony Kakkar featuring Neha Kakkar, known for its catchy chorus and danceable beats."
+338,Daru Badnaam,Kamal Kahlon & Param Singh,Hip-Hop,"A viral Punjabi song that discusses the effects of alcohol, with a catchy hook and a blend of hip-hop and folk rhythms."
+339,Ban Ja Rani,Guru Randhawa,Pop,"A sweet and catchy pop song by Guru Randhawa that celebrates love and companionship, with a vibrant music video."
+340,Pyaar Di Kahani,Amrinder Gill,Romantic Folk,"A touching folk song by Amrinder Gill that tells a story of love beyond societal norms, with emotional lyrics and melody."
+341,Ikk Kudi,Diljit Dosanjh,Semi-Classical,"A beautiful semi-classical song from the movie “Udta Punjab,” sung by Diljit Dosanjh, with lyrics that celebrate the spirit of a girl."
+342,Waya,Sain Zahoor,Folk Rock,"A soulful folk song by Sain Zahoor that conveys a message of hope and resilience, with a strong folk-rock influence."
+343,Bulbul,Meesha Shafi,Pop Rock,"An empowering song by Meesha Shafi that promotes women’s rights and strength, with a catchy pop-rock tune."
+344,Yaar Mila,Ali Sethi & Hadiqa Kiani,Sufi Rock,A mystical Sufi rock song by Ali Sethi and Hadiqa Kiani that delves into themes of love and companionship.
+345,Rang De,Noori,Sufi Rock,"An upbeat Sufi rock song by Noori that spreads a message of peace and unity, with energetic music and lyrics."
+346,Lamhe,Atif Aslam,Pop Ballad,A beautiful and emotional ballad about cherishing precious moments in life.
+347,Sajni,Bilal Khan,Folk Fusion,A soulful and romantic song with a blend of folk melodies and modern production.
+348,Baazi,Qayaas,Pop Rock,A high-energy and catchy song about chasing your dreams and overcoming challenges.
+349,Noor,Abida Parveen,Sufi Qawwali,"A mesmerizing and spiritual qawwali by the legendary Abida Parveen, celebrating divine love."
+350,Piya,Hadiqa Kiani,Pop,A catchy and playful pop song about the excitement of new love.
+351,Khamaj,Ali Zafar,Folk Pop,"A beautiful and melancholic song with a blend of folk melodies and modern production, exploring themes of love and loss."
+352,Mein Tenu Samjhawan,Rahat Fateh Ali Khan,Romantic Ballad,"A beautiful and emotional ballad about the complexities of love, featuring the soulful vocals of Rahat Fateh Ali Khan."
+353,Heer,Farida Khanum,Classical,A mesmerizing and powerful rendition of the classic Punjabi folk tale of Heer Ranjha by the legendary Farida Khanum.
+354,Meri Yaar,Sain Tu Sain & Meesha Shafi,Folk Fusion,"A beautiful and romantic song with a blend of folk melodies and modern production, featuring a duet between Sain Tu Sain and Meesha Shafi."
+355,Ishq Mein,Fariha Pervez,Ghazal,A beautiful and poetic ghazal about the depths of love and longing.
+356,Bulleya Ki Jaana,Meesha Shafi,Indie Pop,A playful and whimsical song with a unique blend of Eastern and Western influences.
+357,Yaar Juana,Ali Azmat,Rock,A high-energy and rebellious rock song about defying societal expectations.
+358,Sawan Mein Lagay Aag,Faakhir,Folk,A soulful and melancholic folk song about love and loss during the monsoon season.
+359,Alif Allah (Jugni),Coke Studio feat. Abida Parveen & Sain Zahoor,Sufi Fusion,"A mesmerizing and spiritually charged fusion of Sufi elements and modern production, featuring the legendary Abida Parveen."
+360,Mitti,Atif Aslam,Pop Rock,A powerful and patriotic song celebrating the beauty and resilience of Pakistan’s land.
+361,Waasta,Momina Mustehsan & Atif Aslam,Pop Ballad,"A beautiful and emotional ballad about unrequited love, featuring a popular duet."
+362,Sajdaa,Sajjad Ali,Qawwali,A powerful and devotional qawwali about seeking divine love and guidance.
+363,Tu Hi Meri,Momina Mustehsan,Pop Ballad,A heartwarming and hopeful song about finding love and happiness.
+364,Paniyon Sa,Hadiqa Kiani,Pop,A catchy and danceable pop song with a summery vibe.
+365,Chal Diya,Zebunnisa Bangash,Folk Fusion,"A beautiful and powerful song about resilience and overcoming challenges, featuring a strong female voice."
+366,Yaar Mila (Live),Ali Sethi & Hadiqa Kiani,Sufi Rock,"A live version of the popular “Yaar Mila,” offering a more raw and energetic experience."
+367,Pani Da Rang,Ayushmann Khurrana,Folk Fusion,"A soulful and hopeful song celebrating the beauty and life-giving power of water, with a blend of folk melodies and modern production."
+368,Kabhi Alvida Na Kehna (Coke Studio),Atif Aslam & Strings,Sufi Rock,"A powerful and emotional rendition of the classic Bollywood song “Kabhi Alvida Na Kehna,” featuring Atif Aslam’s vocals and Strings’ signature rock sound with Sufi influences."
+369,Mann Ke Manzil,Hasan Jahan,Ghazal,"A beautiful and poetic ghazal exploring the journey of love and longing, featuring the soulful vocals of Hasan Jahan."
+370,Yaar Sunk,Qawwali Brothers,Qawwali,A high-energy and devotional qawwali celebrating the power of divine love and friendship.
+371,Disco Dancer (Ali Zafar),Ali Zafar,Retro Pop,"A fun and playful cover of the classic Bollywood song “Disco Dancer” by Ali Zafar, keeping the retro vibes alive with a modern twist."
+372,Noor-e-Ajnabi,Faakhir,Folk Ballad,A haunting and melancholic folk ballad about a love story that remains unfulfilled.
+373,Sajna Door Re,Abida Parveen,Sufi Ghazal,"A mesmerizing and soulful ghazal by the legendary Abida Parveen, expressing the pain of separation and longing for a loved one."
+374,Yaar,Josh,Rock,A high-energy and rebellious rock song about seeking freedom and individuality.
+375,Bheegi Yaadein,Sajjad Ali,Ghazal,A beautiful and emotional ghazal about cherished memories and the bittersweetness of the past.
+376,Lamhay (Live),Fariha Pervez,Classical (Live),"A captivating live performance of the classic song “Lamhay” by the legendary Fariha Pervez, showcasing her powerful vocals."
+377,Parey Hut Love,Atif Aslam & Meesha Shafi,Pop Rock,A catchy and playful pop rock song about the excitement and uncertainty of new love.
+378,Dil Haare,Ali Azmat,Rock,A high-energy and rebellious rock song about defying societal norms and following your heart.
+379,Piya Ghar Aya,Faakhir,Folk Fusion,A soulful and celebratory folk song about the joy of a loved one returning home.
+380,Lak Di Hawa,Atif Aslam,Pop Ballad,A beautiful and emotional ballad about the power of love to overcome obstacles.
+381,Bulleh Shah,Nooran Sisters,Sufi Folk,"A soulful and mystical song featuring the vocals of the Nooran Sisters, celebrating the teachings of the Sufi poet Bulleh Shah."
+382,Wasta (Ali Zafar Version),Ali Zafar,Pop Ballad,"A soulful and emotional rendition of the popular “Waasta” by Ali Zafar, offering a different perspective on the song’s theme of unrequited love."
+383,Je T'aime... Moi Non Plus,Jane Birkin & Serge Gainsbourg,Pop,"A sensual and provocative French pop song with iconic lyrics, featuring a controversial yet captivating duet."
+384,Volare (Nel Blu Dipinto Di Blu),Domenico Modugno,Pop,A catchy and optimistic Italian pop song known for its joyful melody and uplifting lyrics about flying.
+385,Söhne Der Sterne,Rammstein,Industrial Metal,A powerful and energetic German industrial metal song with a dark and theatrical atmosphere.
+386,"La Bohème - ""Che gelida manina""",Giacomo Puccini,Opera,"A beautiful and captivating aria from the classic opera ""La Bohème,"" showcasing a tenor's vocal prowess."
+387,99 Luftballons,Nena,New Wave,A playful and catchy German new wave song with a message about the dangers of war.
+388,The Lion Sleeps Tonight (Wimoweh),The Tokens (American cover),Pop,"A popular cover of a South African folk song, known for its energetic chorus and call-and-response vocals."
+389,Le Festin,Camille,Chanson,A whimsical and quirky French chanson song with playful lyrics and a unique blend of genres.
+390,Vísperas de Fiesta,Luz Casal,Pop Rock,A powerful and passionate Spanish pop rock song celebrating life and resilience.
+391,Running Up That Hill (A Deal With God),Kate Bush,Art Pop,A mysterious and atmospheric British art pop song with haunting vocals and thought-provoking lyrics.
+392,Söhne,Söhne Mannheims,Pop,A soulful and hopeful German pop song about unity and brotherhood.
+393,The Passenger,Iggy Pop,Rock,A philosophical and introspective rock song with iconic lyrics about observing life as a passenger.
+394,The Model,Kraftwerk,Electronic,A pioneering and influential German electronic song with robotic vocals and a minimalist yet futuristic sound.
+395,Eu Sei Que Vou Te Amar,Amália Rodrigues,Fado,"A heart-wrenching and melancholic Portuguese fado song about love and loss, featuring the legendary vocals of Amália Rodrigues."
+396,Freundeskreis - Anonym,Freundeskreis,Hip-Hop,A powerful and socially conscious German hip-hop song addressing issues of racism and prejudice.
+397,Voilà,Barbara Pravi,Pop,"A catchy and quirky French pop song with a theatrical flair, representing France in the Eurovision Song Contest 2020."
+398,Sultans of Swing,Dire Straits,Rock,A classic and energetic British rock song with a captivating guitar riff and strong vocals.
+399,Draxler,Mumford & Sons (British band) & Baaba Maal (Senegalese musician),Folk Rock,A beautiful and collaborative folk rock song with a blend of British and Senegalese influences.
+400,Sofia,Alvaro Soler,Pop,A summery and danceable Spanish pop song with a catchy melody and optimistic lyrics.
+401,The Final Countdown,Europe,Rock,A high-energy and iconic Swedish rock song known for its powerful opening sequence.
+402,Moskau,Dschinghis Khan,Disco,A fun and kitschy German disco song celebrating the city of Moscow.
+403,Kärlekens tid,Evert Taube,Visa,A beautiful and melancholic Swedish visa song about the fleeting nature of love.
+404,Paradis,Vanessa Paradis,Pop,A playful and innocent French pop song with a nostalgic vibe.
+405,Fjällbacka,Håkan Hellström,Rock,"A powerful and emotional Swedish rock song about love, loss, and a specific location."
+406,Volare via,Al Bano & Romina Power,Pop,A romantic and Italian pop song about flying away with someone.
+407,Flame Trees,Cold Chisel,Pub Rock,A classic and nostalgic Australian pub rock anthem about lost love and memories.
+408,The Boys Light Up,The Go-Betweens,Indie Rock,A witty and introspective indie rock song exploring themes of masculinity and societal expectations.
+409,Apricot Sun,Middle Kids,Indie Rock,A dreamy and atmospheric indie rock song with a captivating melody and relatable lyrics.
+410,Best Part of Me,Vance Joy,Folk Pop,A sweet and heartwarming folk pop song about appreciating the best parts of a relationship.
+411,Chasing the Sun,The Whitlams,Alternative Rock,A catchy and optimistic alternative rock song about following your dreams and chasing after happiness.
+412,Dumb Things,Paul Kelly,Rock,A raw and honest rock song reflecting on past mistakes and learning experiences.
+413,Two Steps of Freedom,Missy Higgins,Singer-Songwriter,A powerful and anthemic song about resilience and overcoming challenges.
+414,The Less I Know the Better,Tame Impala,Psychedelic Rock,A groovy and psychedelic rock song exploring themes of confusion and uncertainty in love.
+415,Electric Lady,The Avalanches,Electronic,A genre-bending electronic song with a playful and psychedelic atmosphere.
+416,One Crowded Hour,Powderfinger,Rock,A powerful and emotional rock song reflecting on the fragility of life and the importance of living in the moment.
+417,Don't Dream It's Over,Crowded House,Rock,"A timeless and iconic Australian rock song about hope, optimism, and following your dreams."
+418,Beside You,Katie Noonan & The Captains Core,Folk Pop,A beautiful and romantic folk-pop ballad about the power of love and companionship.
+419,Blessed,The Cat Empire,Ska Jazz,A high-energy and infectious ska-jazz fusion song with a positive message.
+420,Apple Pie Bed,Emily Wurramara,Indigenous Rock,"A powerful and moving song from an Indigenous Australian artist, exploring themes of identity and history."
+421,Peaches & Cream,Flight Facilities,Electronic Pop,A summery and danceable electronic pop song with a nostalgic vibe.
+422,Everybody Wants to Be Famous,The Whitlams,Alternative Rock,A satirical and witty alternative rock song reflecting on the desires for fame and recognition.
+423,The Auld Triangle,The Pogues (Irish Band),(Popularized in Australia),Folk Punk
+424,Bluebottle,The Angels,Hard Rock,A high-energy and classic Australian hard rock song with a rebellious spirit.
+425,Am I Wrong,The Presets,Electronic Rock,A driving and energetic electronic rock song with a questioning and thought-provoking message.
+426,Sunshine on My Mind,Powderfinger,Rock,A catchy and optimistic rock song about embracing the sunshine and finding joy in the simple things.
+427,The Boys,Kasey Chambers,Country Rock,A heartfelt and relatable country rock song about the challenges and joys of growing up.
+428,My Island Home,Missy Higgins,Folk Pop,A beautiful and poignant folk-pop song expressing love for one's homeland.
+429,Flume - Never Be Like You (feat. Kai),Flume,Electronic,A genre-bending electronic song with a captivating melody and guest vocals by Kai.
+430,Never Tear Us Apart,INXS,New Wave,A classic and anthemic Australian new wave song about the power of love and commitment.
+431,Ready for the Weekend,Jessica Mauboy,Pop,A catchy and upbeat pop song about looking forward to a fun weekend.
+432,The Horses,Daryl Braithwaite,Rock (Originally by Rickie Lee Jones),A powerful and emotional rock ballad about heartbreak and moving on.
+433,Wali,Angelique Kidjo,Afropop,A powerful and socially conscious Afropop song advocating for women's rights.
+434,Yeke Yeke,Mbilia Bel,Soukous,A classic and danceable Soukous song with a driving rhythm and catchy vocals.
+435,Bongo Banga,Staff Benda Bilili,Rumba/Rock,A vibrant and innovative song blending Rumba with Rock influences.
+436,Hotel California (Kuti Version),Fela Kuti,Afrobeat,"A powerful and energetic Afrobeat rendition of the Eagles' classic song ""Hotel California."""
+437,Tezeta,Aster Aweke,Ethiopian/Jazz,A beautiful and soulful song showcasing the unique blend of Ethiopian music and Jazz.
+438,Mali Twist,Salif Keita,Malian/Western Pop,A hypnotic and groovy song that blends traditional Malian music with Western Pop influences.
+439,Umqombothi,Mafikizolo,Gqom,A high-energy and bass-heavy Gqom song perfect for getting you moving.
+440,Wololo,Oumou Sangaré,Wassoulou,A powerful and soulful Wassoulou song with a strong female voice.
+441,Bikutsi Party,Manu Dibango,Bikutsi,A fun and infectious song showcasing the energetic rhythms of Bikutsi music.
+442,Soweto Blues,Hugh Masekela,Jazz,A soulful and melancholic jazz song reflecting on the struggles of life in Soweto.
+443,Ye,Youssou N'Dour,Mbalax,A powerful and celebratory Mbalax song with a call for unity and peace.
+444,Gwala,MzVee,Afrobeat,A fierce and empowering Afrobeat song celebrating female strength.
+445,I Wanna Dance With Somebody (Who Loves Me) (Angelique Kidjo Version),Angelique Kidjo,Afrobeat,A high-energy and joyous Afrobeat cover of Whitney Houston's hit song.
+446,Sé Longui,Papa Wemba,Soukous,A classic and romantic Soukous song with a smooth melody and passionate vocals.
+447,Jaiye (I Dey Happy),Asa,Afropop,A mellow and soulful Afropop song celebrating joy and gratitude.
+448,Wenge Musica - Kalamu,Wenge Musica,Soukous,A high-energy and danceable Soukous song by the iconic band Wenge Musica.
+449,Blame It On The Boogie (Mi Casa Version),Mi Casa,Deep House,"A smooth and groovy Deep House remix of the classic song ""Blame It On The Boogie."""
+450,N'Faly Kuruba,Bassekou Kouyaté & Ngoni Ba,Malian,A mesmerizing and spiritual song featuring the unique sounds of the ngoni (a West African harp).
+451,Lobola,The Soil,A cappella,A powerful and soulful a cappella song exploring themes of love and tradition.
+452,I Do Like,Mayorkun,Afropop,A catchy and playful Afropop song about falling in love.
+453,Wolo,Oumou Sangaré & Tony Allen,Afrobeat/Wassoulou,"A unique collaboration between Malian vocalist Oumou Sangaré and Nigerian drummer Tony Allen, blending Afrobeat and Wassoulou influences."
+454,Haus Party,Yemi Alade,Afropop,A high-energy and danceable Afropop song perfect for a party.
+455,Bongo Flava,Diamond Platnumz,Bongo Flava,A catchy and modern Bongo Flava song by one of Tanzania's biggest stars.
+456,Waterloo Sunset,The Kinks,Rock,A beautiful and evocative rock song painting a picture of a London sunset and young love.
+457,This Charming Man,The Smiths,Alternative Rock,A witty and sardonic song exploring themes of isolation and longing.
+458,Running Up That Hill (A Deal With God) (Kate Bush Remix 2012),Kate Bush,Art Pop,"A haunting and atmospheric remix of the classic song, adding a new layer of depth and intrigue."
+459,The Universal,Blur,Britpop,A beautiful and melancholic Britpop ballad exploring themes of mortality and the universe's vastness.
+460,Where Is My Mind?,The Pixies,Alternative Rock,A surreal and enigmatic alternative rock song with a driving guitar riff and cryptic lyrics.
+461,Karma Police,Radiohead,Alternative Rock,A haunting and thought-provoking song about karma and the consequences of our actions.
+462,Disintegration,The Cure,Gothic Rock,A dark and atmospheric gothic rock song exploring themes of heartbreak and despair.
+463,Boys Don't Cry,The Cure,Gothic Rock,A beautiful and melancholic song about finding solace in music during tough times.
+464,Friday I'm In Love,The Cure,Pop Rock,A catchy and upbeat pop rock song with a dark undercurrent.
+465,Songbird,Fleetwood Mac,Rock,"A beautiful and heartbreaking ballad about love and loss, featuring Christine McVie's stunning vocals."
+466,Go Your Own Way,Fleetwood Mac,Rock,A powerful and anthemic rock song about moving on from a relationship.
+467,Don't Look Back In Anger,Oasis,Britpop,A hopeful and anthemic Britpop song about perseverance and looking towards the future.
+468,Live Forever,Oasis,Britpop,A powerful and anthemic Britpop song with a message about immortality and living life to the fullest.
+469,Wonderwall,Oasis,Britpop,A timeless and iconic Britpop ballad about love and connection.
+470,The Drugs Don't Work,The Verve,Rock,A melancholic and introspective rock song questioning the meaning of life and the numbing effects of drugs.
+471,Bitter Sweet Symphony,The Verve,Rock,A haunting and beautiful song featuring an orchestral sample and Richard Ashcroft's soulful vocals.
+472,Linger,The Cranberries,Alternative Rock,A beautiful and melancholic song about lost love and longing.
+473,Ode To My Family,The Cranberries,Rock,A heartfelt and emotional song dedicated to family and the importance of loved ones.
+474,Space Age Children,Pulp,Britpop,A sarcastic and witty Britpop song about the disillusionment of youth and society.
+475,Common People,Pulp,Britpop,A satirical and catchy Britpop song about class differences and social aspirations.
+476,Disco 2000,Pulp,Britpop,A high-energy and danceable Britpop song with a disco influence.
+477,Teardrop,Massive Attack,Trip Hop,A haunting and atmospheric trip hop song with Elizabeth Fraser's ethereal vocals.
+478,Unfinished Sympathy,Massive Attack,Trip Hop,A beautiful and melancholic trip hop song about heartbreak and loss.
+479,Glory Box,Portishead,Trip Hop,"Haunting trip hop ballad by Portishead exploring themes of desire, obsession, and a mysterious ""glory box."""
+480,Superstition,Stevie Wonder,Funk,A catchy and funky song with a groove that will get you moving.
+481,Born to Run,Bruce Springsteen,Rock,A high-energy and anthemic rock song about chasing dreams and escaping a small-town life.
+482,A Change Is Gonna Come,Sam Cooke,Soul,A powerful and hopeful soul song about the promise of change and a brighter future.
+483,Rhiannon,Fleetwood Mac,Rock,A mystical and enchanting rock song featuring Stevie Nicks' haunting vocals.
+484,Free Bird,Lynyrd Skynyrd,Southern Rock,A Southern rock anthem with a soaring guitar solo and powerful vocals.
+485,Brown Eyed Girl,Van Morrison,Pop Rock,A catchy and upbeat pop rock song about a past love.
+486,Sweet Caroline,Neil Diamond,Pop Rock,A nostalgic and sing-along pop rock anthem perfect for any gathering.
+487,Crazy in Love (feat. Beyoncé),Jay-Z,Hip Hop/R&B,A sexy and confident hip hop song featuring a stunning vocal performance by Beyoncé.
+488,A Milli,Lil Wayne,Hip Hop,A high-energy and braggadocious hip hop song with impressive wordplay and flow.
+489,Empire State of Mind (feat. Alicia Keys),Jay-Z,Hip Hop/Soul,A soulful and triumphant hip hop song celebrating New York City.
+490,Uptown Funk (feat. Bruno Mars),Mark Ronson,Funk/Pop,A high-energy and infectious funk-pop song with a retro vibe.
+491,Redbone,Childish Gambino,Funk/Rap,A groovy and funky rap song with a catchy melody and playful lyrics.
+492,This Is America,Childish Gambino,Rap,A powerful and thought-provoking rap song about social issues in America.

@@ -1,0 +1,453 @@
+Book_ID,Title,Author,Book Description
+1,To Kill a Mockingbird,Harper Lee,"A classic novel set in the American South during the Depression, revolving around racial injustice and moral growth."
+2,1984,George Orwell,Dystopian fiction depicting a totalitarian regime where critical thought is suppressed and individualism is forbidden.
+3,The Great Gatsby,F. Scott Fitzgerald,"A story set in the 1920s, exploring themes of wealth, love, and the American Dream through the lives of Jay Gatsby and others."
+4,Pride and Prejudice,Jane Austen,Regency-era romance novel following the tumultuous relationship between Elizabeth Bennet and Mr. Darcy.
+5,Harry Potter and the Philosopher's Stone,J.K. Rowling,"The first installment in the Harry Potter series, chronicling the magical journey of a young wizard, Harry Potter."
+6,The Catcher in the Rye,J.D. Salinger,"Coming-of-age novel narrated by Holden Caulfield, reflecting on teenage alienation and societal phoniness."
+7,Animal Farm,George Orwell,"Allegorical novella satirizing the Russian Revolution and totalitarianism, using farm animals to represent political figures."
+8,The Hobbit,J.R.R. Tolkien,Fantasy novel detailing the adventures of Bilbo Baggins as he accompanies a group of dwarves on a quest to reclaim their homeland.
+9,The Lord of the Rings,J.R.R. Tolkien,Epic fantasy trilogy following the journey of Frodo Baggins to destroy the One Ring and defeat the Dark Lord Sauron.
+10,Jane Eyre,Charlotte BrontÃ«,"Bildungsroman depicting the life of Jane Eyre, from her abusive childhood to her blossoming romance with Mr. Rochester."
+11,Brave New World,Aldous Huxley,Dystopian novel exploring a futuristic society where citizens are engineered through artificial reproduction and conditioning.
+12,The Chronicles of Narnia,C.S. Lewis,Series of fantasy novels following the adventures of children who discover the magical land of Narnia through a wardrobe.
+13,Wuthering Heights,Emily BrontÃ«,Gothic novel portraying the passionate and destructive love between Heathcliff and Catherine Earnshaw on the Yorkshire moors.
+14,The Diary of a Young Girl,Anne Frank,"Autobiographical account of a Jewish girl hiding from the Nazis during World War II, offering insights into the human spirit amid adversity."
+15,Lord of the Flies,William Golding,Allegorical novel exploring the descent into savagery of a group of British boys stranded on a deserted island.
+16,The Little Prince,Antoine de Saint-ExupÃ©ry,"Philosophical tale about a young prince who travels to different planets, exploring themes of love, friendship, and human nature."
+17,One Hundred Years of Solitude,Gabriel GarcÃ­a MÃ¡rquez,"Epic novel following the BuendÃ­a family through generations in the fictional town of Macondo, blending magical realism with historical events."
+18,Moby-Dick,Herman Melville,"Novel depicting the obsessive quest of Captain Ahab for revenge on the white whale Moby Dick, exploring themes of fate and the nature of evil."
+19,The Adventures of Huckleberry Finn,Mark Twain,"Satirical novel following the adventures of Huck Finn and Jim, a runaway slave, as they journey down the Mississippi River."
+20,The Picture of Dorian Gray,Oscar Wilde,"Philosophical novel about a young man named Dorian Gray who sells his soul to remain youthful while his portrait ages, exploring themes of vanity and morality."
+21,Anna Karenina,Leo Tolstoy,"Epic novel set in 19th-century Russia, exploring themes of love, infidelity, and the consequences of societal norms through the tragic tale of Anna Karenina."
+22,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical novel delving into existential and ethical dilemmas through the story of the dysfunctional Karamazov family.
+23,Crime and Punishment,Fyodor Dostoevsky,"Psychological novel following the moral and mental struggles of Rodion Raskolnikov, a poor ex-student who commits murder to prove his theories."
+24,The Bell Jar,Sylvia Plath,Semi-autobiographical novel detailing a young woman's descent into mental illness amidst societal pressures and expectations.
+25,Frankenstein,Mary Shelley,"Gothic science fiction novel exploring themes of creation, morality, and the consequences of playing god through the story of Victor Frankenstein and his creature."
+26,The Count of Monte Cristo,Alexandre Dumas,"Adventure novel about a young sailor, Edmond DantÃ¨s, who seeks vengeance against those who wrongfully imprisoned him."
+27,Don Quixote,Miguel de Cervantes,"Satirical novel following the adventures of Alonso Quixano, who believes himself to be a knight, and his loyal squire, Sancho Panza."
+28,Les MisÃ©rables,Victor Hugo,"Epic novel set in early 19th-century France, following the lives of several characters, including ex-convict Jean Valjean and Inspector Javert."
+29,The Odyssey,Homer,"Ancient Greek epic poem attributed to Homer, chronicling the journey of Odysseus as he attempts to return home after the Trojan War."
+30,Dracula,Bram Stoker,Gothic horror novel depicting the vampire Count Dracula's attempt to move from Transylvania to England in search of new blood.
+31,The Grapes of Wrath,John Steinbeck,"Pulitzer Prize-winning novel set during the Great Depression, following the Joad family's journey from Oklahoma to California in search of a better life."
+32,The Adventures of Sherlock Holmes,Arthur Conan Doyle,"Collection of detective stories featuring the iconic detective Sherlock Holmes and his loyal companion, Dr. John Watson."
+33,War and Peace,Leo Tolstoy,"Historical novel set during the Napoleonic Wars, exploring themes of love, war, and the nature of power through the lives of several aristocratic families."
+34,The Scarlet Letter,Nathaniel Hawthorne,"The novel explores themes of sin, guilt, and redemption, and is considered a masterpiece of American literature and a classic moral study."
+35,Fahrenheit 451,Ray Bradbury,"Dystopian novel depicting a future society where books are banned and ""firemen"" burn any that are found, exploring themes of censorship and intellectual freedom. It is about a future American society where books are outlawed and “firemen” burn any that are found."
+36,The Adventures of Tom Sawyer,Mark Twain,Classic novel depicting the adventures of a young boy named Tom Sawyer in the Mississippi River town of St. Petersburg.
+37,Little Women,Louisa May Alcott,"Semi-autobiographical novel following the lives of four sisters, Meg, Jo, Beth, and Amy March, during and after the Civil War in America."
+38,Great Expectations,Charles Dickens,"Coming-of-age novel following the life of an orphan named Pip, from his humble beginnings to his adulthood as a gentleman in Victorian England."
+39,The Divine Comedy,Dante Alighieri,"Epic poem divided into three partsâ€”Inferno, Purgatorio, and Paradisoâ€”depicting Dante's journey through Hell, Purgatory, and Heaven."
+40,Alice's Adventures in Wonderland,Lewis Carroll,Fantasy novel following a young girl named Alice who falls through a rabbit hole into a fantasy world populated by peculiar creatures.
+41,The Iliad,Homer,"Ancient Greek epic poem attributed to Homer, chronicling the Trojan War and the wrath of the hero Achilles."
+42,A Tale of Two Cities,Charles Dickens,"Historical novel set in London and Paris before and during the French Revolution, exploring themes of resurrection and sacrifice."
+43,The Stranger,Albert Camus,"Absurdist novel exploring the existential themes of alienation and absurdity through the story of Meursault, a detached Algerian man."
+44,Heart of Darkness,Joseph Conrad,Novella exploring the darkness of the human psyche and the horrors of imperialism through the journey of Charles Marlow up the Congo River.
+45,The Sun Also Rises,Ernest Hemingway,Modernist novel following a group of expatriates in post-World War I Europe as they travel from Paris to Pamplona for the running of the bulls.
+46,The Sound and the Fury,William Faulkner,"Stream-of-consciousness novel depicting the decline of the Compson family in the American South, told from multiple perspectives."
+47,Catch-22,Joseph Heller,"Satirical novel set during World War II, revolving around the experiences of Captain John Yossarian and the absurdity of military bureaucracy."
+48,The Old Man and the Sea,Ernest Hemingway,Novella depicting an aging fisherman's struggle against nature and his quest to catch a giant marlin in the Gulf Stream.
+49,Of Mice and Men,John Steinbeck,"Novella exploring themes of loneliness, friendship, and the American Dream through the relationship between two migrant workers, George and Lennie."
+50,Lolita,Vladimir Nabokov,"Controversial novel narrated by Humbert Humbert, a middle-aged literature professor, who becomes obsessed with a 12-year-old girl named Lolita."
+51,Slaughterhouse-Five,Kurt Vonnegut,"Science fiction-infused anti-war novel following the experiences of Billy Pilgrim, a soldier who becomes ""unstuck in time"" and experiences events non-linearly."
+52,The Metamorphosis,Franz Kafka,Absurdist novella depicting the transformation of Gregor Samsa into a giant insect and the subsequent alienation from his family and society.
+53,Middlemarch,George Eliot,"Novel set in a fictional English Midlands town, exploring the lives and relationships of its inhabitants against the backdrop of societal changes."
+54,Ulysses,James Joyce,"Modernist novel set in Dublin, Ireland, over the course of a single day, following the stream-of-consciousness thoughts and experiences of its characters."
+55,Beloved,Toni Morrison,Pulitzer Prize-winning novel exploring the legacy of slavery and the trauma of its aftermath through the experiences of a former slave named Sethe.
+56,Atlas Shrugged,Ayn Rand,"Philosophical novel promoting Rand's philosophy of objectivism, depicting a dystopian United States where industrialists go on strike against government regulation."
+57,The Fountainhead,Ayn Rand,"Philosophical novel advocating individualism and rejecting conformity, telling the story of an innovative architect named Howard Roark."
+58,A Christmas Carol,Charles Dickens,"Classic novella depicting the transformation of Ebenezer Scrooge, a miserly old man, after being visited by the ghosts of Christmas Past, Present, and Yet to Come."
+59,The Shining,Stephen King,"Horror novel set in an isolated hotel, where the winter caretaker, Jack Torrance, descends into madness, influenced by supernatural forces."
+60,A Clockwork Orange,Anthony Burgess,"Dystopian novel following the ultra-violent exploits of Alex, a delinquent teenager, and his subsequent treatment with aversion therapy."
+61,Gone with the Wind,Margaret Mitchell,"Historical novel set during the American Civil War and Reconstruction era, focusing on the life of Scarlett O'Hara and her struggles in the South."
+62,The Alchemist,Paulo Coelho,A novel by Brazilian author Paulo Coelho that follows the journey of a young Andalusian shepherd named Santiago as he travels from Spain to Egypt in search of treasure.
+63,Pride and Prejudice and Zombies,Seth Grahame-Smith,"A parody novel by Seth Grahame-Smith that combines Jane Austen's classic novel with elements of modern zombie fiction, depicting a zombie outbreak in 19th-century England."
+64,The Girl with the Dragon Tattoo,Stieg Larsson,A crime novel by Swedish author Stieg Larsson that follows journalist Mikael Blomkvist and hacker Lisbeth Salander as they investigate a decades-old disappearance.
+65,The Hunger Games,Suzanne Collins,"The first novel in Suzanne Collins's dystopian trilogy, set in a future society where teenagers are forced to participate in a televised death match known as the Hunger Games."
+66,The Martian,Andy Weir,A science fiction novel by Andy Weir that follows astronaut Mark Watney as he is stranded on Mars and must use his ingenuity to survive while awaiting rescue.
+67,The Night Circus,Erin Morgenstern,"A fantasy novel by Erin Morgenstern that tells the story of a magical competition between two young illusionists, Celia and Marco, held within a mysterious circus that only appears at night."
+68,The Book Thief,Markus Zusak,"A historical novel by Markus Zusak narrated by Death, which tells the story of a young girl named Liesel Meminger living in Nazi Germany during World War II."
+69,The Goldfinch,Donna Tartt,"A novel by Donna Tartt that follows the life of Theo Decker after he survives a terrorist bombing at an art museum, leading to his involvement in the world of art forgery and crime."
+70,The Secret History,Donna Tartt,"A mystery novel by Donna Tartt that follows a group of students studying classics at an elite college, as they become involved in a murder that has lasting consequences."
+71,The Handmaid's Tale,Margaret Atwood,"A dystopian novel by Margaret Atwood set in a future totalitarian society where women are subjugated and used for reproductive purposes, following the story of Offred."
+72,Gone Girl,Gillian Flynn,"A psychological thriller novel by Gillian Flynn that explores the disappearance of Amy Dunne and the subsequent media frenzy and investigation, revealing dark secrets along the way."
+73,Ready Player One,Ernest Cline,"A science fiction novel by Ernest Cline set in a dystopian future where people escape their harsh reality by entering a virtual reality world called the OASIS, filled with '80s pop culture references."
+74,The Help,Kathryn Stockett,"A novel by Kathryn Stockett set in Jackson, Mississippi, during the early 1960s, which tells the story of African American maids working in white households and their struggles for equality."
+75,The Da Vinci Code,Dan Brown,A mystery thriller novel by Dan Brown that follows symbologist Robert Langdon as he investigates a murder in the Louvre Museum and uncovers a centuries-old conspiracy.
+76,The Kite Runner,Khaled Hosseini,"A novel by Khaled Hosseini that follows the life of Amir, a young boy from Afghanistan, as he navigates friendship, betrayal, and redemption amidst the turmoil of his country."
+77,The Road,Cormac McCarthy,"A post-apocalyptic novel by Cormac McCarthy that follows a father and his young son as they journey across a desolate landscape, struggling to survive and maintain their humanity."
+78,The Curious Incident of the Dog in the Night-Time,Mark Haddon,A mystery novel by Mark Haddon narrated by a 15-year-old boy named Christopher who investigates the death of his neighbor's dog while also coping with his own personal challenges.
+79,The Time Traveler's Wife,Audrey Niffenegger,"A novel by Audrey Niffenegger that tells the story of Henry, a man with a genetic disorder that causes him to involuntarily time travel, and his wife Clare as they navigate their unconventional relationship."
+80,Life of Pi,Yann Martel,"A fantasy adventure novel by Yann Martel that follows the journey of a young Indian boy named Pi Patel, who survives a shipwreck and shares a lifeboat with a Bengal tiger named Richard Parker."
+81,The Fault in Our Stars,John Green,"A young adult novel by John Green that follows the story of Hazel Grace Lancaster, a teenage cancer patient, as she falls in love with Augustus Waters and grapples with mortality and love."
+82,A Song of Ice and Fire series (Game of Thrones),George R.R. Martin,"A fantasy novel series by George R.R. Martin, famously adapted into the television series ""Game of Thrones."" Set in the fictional continents of Westeros and Essos, the series follows the power struggles among noble families as they vie for control of the Iron Throne. Filled with political intrigue, complex characters, and shocking plot twists, it explores themes of power, honor, and betrayal in a world where winter can last for years and supernatural forces threaten the realm."
+83,The Three-Body Problem,Cixin Liu,"A first contact story with a twist, exploring humanity's reaction to messages from a technologically advanced alien civilization."
+84,Things Fall Apart,Chinua Achebe,A powerful novel depicting the clash of traditions and the arrival of colonialism in Nigeria.
+85,The Vegetarian,Han Kang,A disturbing and thought-provoking exploration of female rebellion and societal expectations.
+86,The Left Hand of Darkness,Ursula K. Le Guin,A groundbreaking exploration of gender and sexuality in a fictional world.
+87,Their Eyes Were Watching God,Zora Neale Hurston,A vibrant and lyrical coming-of-age story celebrating female independence.
+88,Pale Fire,Vladimir Nabokov,A complex and playful novel that challenges the nature of reality and storytelling.
+89,The Namesake,Jhumpa Lahiri,A poignant story about a Bengali immigrant family navigating cultural identity in America.
+90,The Vegetarian Butcher,Alan Bradley,A quirky and humorous detective series featuring a young sleuth with a passion for vegetarianism.
+91,Circe,Madeline Miller,"A feminist retelling of the Greek myth of Circe, the sorceress daughter of the sun god Helios."
+92,Convenience Store Woman,Sayaka Murata,A darkly comedic exploration of societal expectations and the desire to live outside the norm.
+93,Lincoln in the Bardo,George Saunders,An imaginative and moving exploration of grief and loss set during the American Civil War.
+94,Exit West,Mohsin Hamid,"A magical realist love story exploring themes of migration, displacement, and the search for home."
+95,Homegoing,Yaa Gyasi,A sweeping saga that traces the divergent destinies of two half-sisters separated by the slave trade.
+96,The Emperor of All Maladies,Siddhartha Mukherjee,A Pulitzer Prize-winning exploration of the history of cancer and the ongoing battle against this devastating disease.
+97,A Short History of Nearly Everything,Bill Bryson,A witty and engaging exploration of the universe and our place within it.
+98,Sapiens: A Brief History of Humankind,Yuval Noah Harari,A thought-provoking examination of the history of humankind and our possible future.
+99,Born a Crime,Trevor Noah,A funny and insightful memoir about growing up mixed-race in apartheid South Africa.
+100,Evicted: Poverty and Profit in the American City,Matthew Desmond,A harrowing and eye-opening look at the realities of poverty and eviction in contemporary America.
+101,Between the World and Me,Ta-Nehisi Coates,A powerful and personal letter written by a father to his son about the realities of being Black in America.
+102,Middlesex,Jeffrey Eugenides,"A coming-of-age story that explores themes of gender identity, family secrets, and the immigrant experience."
+103,The Remains of the Day,Kazuo Ishiguro,A haunting and melancholic novel about a repressed butler and his lost love.
+104,The Poisonwood Bible,Barbara Kingsolver,A multi-generational saga that explores the impact of colonialism on a family of missionaries in the Congo.
+105,Cloud Atlas,David Mitchell,"A complex and ambitious novel that spans centuries and continents, exploring themes of identity, reincarnation, and connection."
+106,Oryx and Crake,Margaret Atwood,A chilling dystopian novel about the dangers of genetic engineering and environmental collapse.
+107,The God of Small Things,Arundhati Roy,"A lyrical and moving novel about forbidden love, class differences, and the complexities of family in India."
+108,The Handmaid's Tale (different edition),Margaret Atwood,"A feminist dystopian classic exploring themes of oppression, female subjugation, and the power of resistance. (This is a different edition or translation of the same book previously listed)"
+109,Americanah,Chimamanda Ngozi Adichie,"A compelling love story that explores themes of race, class, and immigration between Nigeria and America."
+110,Pachinko,Min Jin Lee,"A sweeping historical saga that follows a Korean family across generations as they navigate war, displacement, and the search for a new home in Japan."
+111,Milkman,Anna Burns,A Booker Prize-winning novel that explores the experience of a young woman living through the Troubles in Northern Ireland.
+112,Exit West (different edition),Mohsin Hamid,"A magical realist love story exploring themes of migration, displacement, and the search for home. (This is a different edition or translation of the same book previously listed)"
+113,On Earth We're Briefly Gorgeous,Ocean Vuong,A poetic and moving novel about a young Vietnamese American man writing a letter to his mother.
+114,The Vegetarian (different edition/translation),Han Kang,A disturbing and thought-provoking exploration of female rebellion and societal expectations. (This is a different edition or translation of the same book previously listed)
+115,A Gentleman in Moscow,Amor Towles,A charming and heartwarming story about a Russian aristocrat forced to live in a Moscow hotel after the revolution.
+116,Eleanor Oliphant is Completely Fine,Gail Honeyman,A funny and insightful novel about a socially awkward woman who must learn to connect with others.
+117,Recursion,Blake Crouch,A mind-bending science fiction thriller about a false memory epidemic that threatens to shatter reality.
+118,Project Hail Mary,Andy Weir,"Another thrilling science fiction story by Andy Weir, this time about an amnesiac astronaut who wakes up on a spaceship with no memory of his mission."
+119,The Enchanted Forest,Ella Enchanted,A tale of magic and adventure in a mystical forest.
+120,Journey to the Unknown,Mystery Writer,An exploration of uncharted territories and the secrets they hold.
+121,The Lost Manuscript,A. R. Historian,"A thrilling quest to uncover an ancient, hidden text."
+122,Echoes of Eternity,S. T. Timekeeper,A time-travel adventure that spans centuries and dimensions.
+123,Midnight Whispers,Luna Nightshade,A haunting mystery set in a moonlit town where secrets whisper through the night.
+124,Piranesi,Susanna Clarke,A man explores a seemingly endless house filled with classical statues.
+125,Never Let Me Go,Kazuo Ishiguro,A haunting story about clones raised in a boarding school for a dark purpose.
+126,The Ministry for the Future,Kim Stanley Robinson,A hopeful vision of humanity coming together to address climate change.
+127,The Power,Naomi Alderman,"Women develop the ability to inflict excruciating pain with a touch, upending the power dynamics between genders."
+128,The Fifth Season,N.K. Jemisin,A powerful fantasy novel set on a broken Earth where a society struggles to survive cataclysmic geological events.
+129,"The Broken Earth Trilogy (The Fifth Season, The Obelisk Gate, The Stone Sky)",N.K. Jemisin,"An epic fantasy trilogy exploring themes of oppression, resilience, and the power of storytelling."
+130,A Confederacy of Dunces,John Kennedy Toole,"A hilarious and poignant satire of American life following Ignatius J. Reilly, a lazy and eccentric man."
+131,Dune,Frank Herbert,A complex and influential science fiction epic set on a desert planet where spice is the most valuable resource.
+132,Station Eleven,Emily St. John Mandel,A post-apocalyptic story following a group of traveling actors in a world ravaged by a flu pandemic.
+133,The Murderbot Diaries (series),Martha Wells,A fast-paced science fiction series featuring a reluctant security android.
+134,The Poppy War (series),R.F. Kuang,A dark fantasy series inspired by Chinese history.
+135,Mexican Gothic,Silvia Moreno-Garcia,A young woman travels to Mexico to help her ailing cousin and finds herself entangled in a gothic mystery.
+136,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,A Pulitzer Prize-winning exploration of cancer throughout history.
+137,Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think,Hans Rosling,Challenges our perception of the world and shows how things are actually improving.
+138,"Thinking, Fast and Slow",Daniel Kahneman,Explores the two systems that drive our thinking and how they can lead to biases.
+139,"Born a Crime (Trevor Noah) [Repeated, replaced with new entry below]",Trevor Noah,A comedic memoir about growing up biracial in South Africa during apartheid.
+140,The Hate U Give (Angie Thomas),A powerful young adult novel about racism and police brutality.,
+141,The Brief Wondrous Life of Oscar Wao,Junot Diaz,A vibrant and funny novel about a Dominican family living in the United States.
+142,The White Tiger,Aravind Adiga,A darkly comic coming-of-age story set in modern India.
+143,The Inheritance of Loss,Kiran Desai,"A sweeping novel about family, identity, and the legacy of colonialism."
+144,Train to Pakistan,Khushwant Singh,A historical novel about the partition of India and Pakistan.
+145,The Guide,R.K. Narayan,A humorous and satirical novel about a holy man who becomes a tour guide.
+146,Malgudi Days,R.K. Narayan,A collection of heartwarming and humorous short stories set in the fictional town of Malgudi.
+147,The Argumentative Indian,Amartya Sen,"A collection of essays on Indian culture, politics, and economics."
+148,India After Gandhi,Ramachandra Guha,A comprehensive history of India since independence.
+149,I Speak for Myself,Arundhati Roy,A collection of essays and lectures by the renowned Indian author.
+150,Imaginary Cities,Salman Rushdie,"A magical realist novel exploring themes of migration, identity, and history."
+151,Chandrakanta,Devaki Nandan Khatri,A classic Hindi adventure novel about love and heroism.
+152,Munshi Premchand Short Stories,Munshi Premchand,A collection of short stories by one of the most important Hindi writers of the 20th century.
+153,Godaan,Premchand,A powerful novel about the exploitation of farmers in colonial India.
+154,Kashi ka Aswadh,Kashi Nath Singh,A classic Hindi novel set in the holy city of Varanasi.
+155,Mailaanchhal,Amrita Pritam,A collection of poems by one of India's most famous poets.
+156,Chokher Bali,Rabindranath Tagore,A Bengali novel about a widow who challenges societal expectations.
+157,Gitanjali,Rabindranath Tagore,A collection of poems by the Nobel Prize-winning Bengali poet.
+158,Sonar Tari,Sukumar Ray,A collection of Bengali nonsense verse for children.
+159,The Apu Trilogy,Satyajit Ray,A coming-of-age story about a young boy in rural Bengal.
+160,Devi,Sharat Chandra Chattopadhyay,A Bengali novel about a woman who breaks free from social constraints.
+161,Ponniyin Selvan,Kalki Krishnamurthy,A historical epic about the Chola dynasty in Tamil Nadu.
+162,The Madras Quartet,R.K. Narayan,A series of four novels set in the fictional South Indian town of Malgudi.
+163,Karisal,Indira Parthasarathy,A collection of poems exploring themes of feminism and identity.
+164,The Autobiography of a Goddess,Meena Kandasamy,A feminist reimagining of the Hindu goddess Parvati.
+165,The Palace of Illusions,Chitra Banerjee Divakaruni,A captivating retelling of the Mahabharata from the perspective of Draupadi.
+166,Interpreter of Maladies,Jhumpa Lahiri,A collection of short stories about the Indian diaspora.
+167,The Shadow Lines,Amitav Ghosh,A novel about the partition of India and its lasting impact.
+168,The Book of Hunters and Dreams,Ruskin Bond,A collection of short stories and essays set in the foothills of the Himalayas.
+169,OJ: The Friend,Santhosh Kumar,A fictionalized account of the life of N.S. Madhavan.
+170,Norwegian Wood,Haruki Murakami,"A poignant novel about love, loss, and coming of age set in 1960s Japan."
+171,Kokoro,Natsume Soseki,"A classic Japanese novel exploring themes of loneliness, guilt, and cultural identity."
+172,The Wind-Up Bird Chronicle,Haruki Murakami,An enigmatic tale of a man's search for his missing wife and the surreal events that unfold along the way.
+173,Snow Country,Yasunari Kawabata,A lyrical novella depicting the love affair between a Tokyo dilettante and a geisha in a remote snow-covered village.
+174,Kafka on the Shore,Haruki Murakami,"A mesmerizing novel intertwining the stories of a teenage boy named Kafka Tamura and an elderly man named Nakata, exploring themes of fate, identity, and the supernatural."
+175,Rashomon and Other Stories,Ryunosuke Akutagawa,"A collection of short stories including ""Rashomon,"" which explores the nature of truth and perception through multiple perspectives."
+176,Battle Royale,Koushun Takami,A dystopian thriller set in a totalitarian Japan where a class of students is forced to fight to the death until only one survivor remains.
+177,Kitchen,Banana Yoshimoto,"A contemporary novel that weaves together two stories of love, loss, and resilience centered around the theme of kitchen and cooking."
+178,Confessions of a Mask,Yukio Mishima,"A semi-autobiographical novel that explores themes of identity, sexuality, and societal expectations through the story of a young man coming to terms with his homosexuality in pre-war Japan."
+179,A Tale for the Time Being,Ruth Ozeki,"A novel that alternates between the perspectives of a Japanese teenager in Tokyo and a writer on a remote island off the coast of British Columbia, exploring themes of time, memory, and the interconnectedness of human lives."
+180,Out,Natsuo Kirino,"A gripping thriller about four women working the night shift at a bento factory who become embroiled in a gruesome murder cover-up, exploring themes of female empowerment, social alienation, and the darker side of urban life in Japan."
+181,The Sailor Who Fell from Grace with the Sea,Yukio Mishima,"A dark and intense novel that follows the relationship between a troubled widow and her son, who becomes involved with a group of nihilistic teenagers, ultimately leading to a shocking and tragic climax."
+182,After Dark,Haruki Murakami,"A surreal and atmospheric novel set in Tokyo during the small hours of the night, following the intersecting lives of several characters whose paths cross in unexpected ways."
+183,The Sound of Waves,Yukio Mishima,"A tender love story between a young fisherman and the daughter of the wealthiest man in the village, set against the backdrop of a small island community in post-war Japan."
+184,Outliers,Malcolm Gladwell,"A non-fiction exploration of the factors that contribute to high levels of success, using case studies to illustrate how cultural, societal, and personal influences shape individual achievement, including a section on the Japanese concept of ""kikokushijo"" (returnees)."
+185,Spring Snow,Yukio Mishima,"The first novel in Mishima's ""Sea of Fertility"" tetralogy, depicting the complex and tragic relationship between two aristocratic families against the backdrop of a rapidly changing Japan in the early 20th century."
+186,The Devotion of Suspect X,Keigo Higashino,A masterful mystery novel that follows the cat-and-mouse game between a brilliant physicist turned amateur detective and a former classmate who becomes embroiled in a murder investigation.
+187,If Cats Disappeared from the World,Genki Kawamura,"A whimsical yet profound novel about a young man who, diagnosed with a terminal illness, strikes a deal with the devil to extend his life by making one thing disappear from the world each day."
+188,The Makioka Sisters,Junichiro Tanizaki,"A sweeping family saga set in Osaka during the years leading up to World War II, following the lives of four sisters from a declining aristocratic family as they navigate love, marriage, and societal change."
+189,The Master and Margarita,Mikhail Bulgakov,"A surreal and satirical novel that intertwines the stories of Pontius Pilate, a writer known only as ""the Master,"" and Margarita, his lover, against the backdrop of Soviet Russia. Blending fantasy, humor, and philosophical inquiry, the novel explores themes of good and evil, artistic freedom, and the nature of reality."
+190,Doctor Zhivago,Boris Pasternak,"A sweeping epic that follows the life of Yuri Zhivago, a physician and poet, against the backdrop of the Russian Revolution and its aftermath. The novel explores themes of love, war, and the struggle for personal and artistic freedom in a tumultuous period of Russian history."
+191,Fathers and Sons,Ivan Turgenev,"A novel that explores the generational divide between fathers and sons, as well as the clash between traditional Russian values and emerging nihilism, through the story of an aristocratic family and their interactions with a young nihilist named Bazarov."
+192,Eugene Onegin,Alexander Pushkin,"A novel in verse that follows the life of the titular character, Eugene Onegin, a bored and cynical aristocrat, and his interactions with the innocent and idealistic Tatyana. Set against the backdrop of Russian high society, the novel explores themes of love, friendship, and the search for meaning."
+193,The Idiot,Fyodor Dostoevsky,"A novel that follows the story of Prince Lev Nikolaevich Myshkin, a compassionate and naive young man who returns to Russia after spending several years in a Swiss sanatorium. Often regarded as one of Dostoevsky's most enigmatic characters, Myshkin navigates the complexities of Russian society and the machinations of those around him with tragic consequences."
+194,Dead Souls,Nikolai Gogol,"A satirical novel that follows the exploits of the opportunist Chichikov as he travels through the Russian countryside purchasing ""dead souls"" (serfs who have died but are still listed on the census) in order to improve his social standing and financial prospects. Set against the backdrop of 19th-century Russia, the novel offers a scathing critique of greed, corruption, and social hierarchy."
+195,The Gulag Archipelago,Aleksandr Solzhenitsyn,"A monumental work of non-fiction that chronicles the Soviet forced labor camp system (the ""Gulag"") and the experiences of its prisoners. Drawing on personal accounts, interviews, and archival materials, Solzhenitsyn exposes the horrors of the Soviet regime and its impact on millions of lives."
+196,Fathers and Children,Ivan Turgenev,A novel that explores the generational conflict between the older generation of Russian aristocrats and the younger generation of
+197,"Kim Jiyoung, Born 1982",Cho Nam-Joo,A social commentary on the experiences of women in contemporary Korean society.
+198,Please Look After Mom,Kyung-sook Shin,A poignant exploration of family relationships and memory loss.
+199,The Guest,Hwang Sok-yong,A North Korean defector grapples with identity and belonging in South Korea.
+200,Confessions of a Taxidermist,Yeo Kyung-Lee,A darkly humorous satire on social class and consumerism.
+201,The Vegetarian's Husband,Han Kang,"A companion novel to ""The Vegetarian"", exploring the experience of the protagonist's husband."
+202,Human Acts,Han Kang,A haunting story of the Gwangju Uprising in South Korea through the eyes of different characters.
+203,The Hen,Kim Young-ha,A darkly comic novel about a family living in poverty and the arrival of a mysterious chicken.
+204,The Dwarf,Kim Yun-Suk,A historical novel based on the life of a dwarf who served as a court jester during the Joseon Dynasty.
+205,The Tale of Hong Gildong,Ho Kyun,A classic adventure novel about a rebellious Robin Hood-like figure.
+206,The Springtime of Life,Kim Sowol,A collection of poems known for their beautiful imagery and exploration of nature.
+207,The Nine Cloud Dream,Kim Man-jung,A satirical novel critiquing social and political corruption in the Joseon Dynasty.
+208,Minority,Hwang Sok-yong,A moving story about North Korean defectors struggling to adapt to life in South Korea.
+209,The Hole,Pyun Hye-young,A psychological thriller about a woman who becomes obsessed with a mysterious hole in her apartment.
+210,Six Wallets,Kang Young-sook,"A collection of interconnected stories exploring themes of love, loss, and connection."
+211,Almond,Won-Pyung Sohn,A coming-of-age story about a teenager with a neurological condition that affects his ability to feel emotions.
+212,The Girl with a Louding Voice,Cho Nam-Joo,A powerful coming-of-age story about a young woman fighting for her education and independence.
+213,Burning,Jung Hae-in,A mysterious and atmospheric novel that was adapted into a critically acclaimed film.
+214,The Goblin Emperor,Katherine Addison,A fantasy novel set in Korea with a focus on court politics and self-discovery.
+215,Nine Lives,Hwang Sok-yong,A historical novel exploring the lives of nine women over 200 years of Korean history.
+216,The Birdcage,Kim So-yeon,A historical novel about a group of women who are forced to become royal concubines.
+217,The Beauty Inside,Seo-Kyung Lee,A romantic comedy about a man who wakes up each day looking like a different person.
+218,Love in the Moonlight,Yoon In-hwa,A historical romance set during the Joseon Dynasty.
+219,Fight for My Way,Baek Se-hee,A light novel about two friends who support each other's dreams of becoming successful.
+220,Solo Leveling,Chugong,A fantasy webtoon about a low-ranked hunter who gains incredible power.
+221,Attack on Titan,Hajime Isayama,A dark fantasy action story about humanity's fight for survival against giant humanoid creatures called Titans.
+222,My Hero Academia,Kohei Horikoshi,A superhero coming-of-age story about a boy who dreams of becoming a hero despite being quirkless (without superpowers) in a world where they're commonplace.
+223,Demon Slayer: Kimetsu no Yaiba,Koyoharu Gotouge,A historical fantasy action series about a young swordsman who sets out to avenge his family's death and find a cure for his demonized sister.
+224,Fullmetal Alchemist,Hiromu Arakawa,"A steampunk fantasy adventure about two alchemist brothers who attempt to bring their mother back to life through alchemy, a forbidden technique."
+225,Death Note,"Tsugumi Ohba (writer), Takeshi Obata (artist)",A psychological thriller about a high school student who discovers a notebook with the power to kill anyone whose name is written in it.
+226,One Piece,Eiichiro Oda,A long-running pirate adventure following the story of Monkey D. Luffy and his Straw Hat Pirates as they search for the legendary treasure One Piece.
+227,Naruto,Masashi Kishimoto,"A shounen action series following the journey of Naruto Uzumaki, a young ninja with a sealed demon fox within him, as he strives to become Hokage, the leader of his village."
+228,Bleach,Tite Kubo,A supernatural action series about a teenager who gains the power to see and interact with spirits and becomes a shinigami (soul reaper) tasked with guiding lost souls to the afterlife.
+229,Hunter x Hunter,Yoshihiro Togashi,"A shounen adventure series about a young boy named Gon Freecss who sets out to find his father, a legendary Hunter who hunts for treasures, rare creatures, or criminals."
+230,Haikyuu!!,Haruichi Furudate,A sports manga about a determined but short volleyball player who joins his high school's team and strives to overcome his limitations and lead his team to victory.
+231,Monster,Naoki Urasawa,A psychological thriller about a brilliant doctor who chooses not to save
+232,Horimiya,"HERO (writer), Daisuke Hagiwara (artist)",A romantic comedy about a seemingly ordinary high school student who leads a secret double life.
+233,Fruits Basket,Natsuki Takaya,"A heartwarming shojo romance with a touch of fantasy about an orphaned girl who starts living with the mysterious Sohma family, who are cursed to transform into animals from the zodiac."
+234,Kimi ni Todoke (Reaching You),Aohiro Hiiragi,A sweet and wholesome shojo romance about a shy girl who struggles to make friends and finds love with a popular boy in her class.
+235,One-Punch Man,"ONE (writer), Yusuke Murata (artist)",A satirical action comedy about a superhero who can defeat any opponent with a single punch and struggles to find meaning in his overwhelming strength.
+236,Daily Lives of High School Boys,Akira Amano,A slice-of-life comedy following the absurd and hilarious everyday lives of a group of high school boys.
+237,Grand Blue Dreaming,Kenji Inoue,A comedic coming-of-age story about a college freshman who joins his diving club and gets entangled in their wild antics.
+238,Akira,Katsuhiro Otomo,A cyberpunk neo-Tokyo thriller about a group of teenagers with psychic abilities who become entangled in a government conspiracy.
+239,Ghost in the Shell,Masamune Shirow,A cyberpunk science fiction story about a cyborg police officer who investigates crimes in a world where the line between human and machine is blurred.
+240,Kuroko's Basketball,Tadatoshi Fujimaki,A sports manga about a high school basketball team with a seemingly weak protagonist who possesses unique abilities that lead his team to victory.
+241,Prince of Tennis,Takeshi Konomi,A high school tennis manga about a young prodigy who strives to become the best tennis player in the world.
+242,Unordinary,Uru-chan,"A superhero webtoon set in a world where everyone has powers, except for the protagonist."
+243,Tower of God,SIU (Slave In Utero),A fantasy adventure webtoon following the journey of a boy as he climbs the mysterious Tower of God to find his friend.
+244,Lore Olympus,Rachel Smythe,"A modern retelling of Greek mythology, focusing on the romance between Hades and Persephone."
+245,The God of High School,Park Yong-je,A martial arts webtoon featuring high school students competing in a tournament to become the strongest fighter.
+246,My Dear Cold-Blooded King,Lifelight,A romance webtoon set in a fantasy world where a princess is forced into a political marriage with a cold-blooded king.
+247,I Love Yoo,Quimchee,A romantic comedy webtoon about a girl who finds herself entangled with two brothers from a wealthy family.
+248,True Beauty,Yaongyi,A romantic comedy webtoon about a girl who undergoes a dramatic transformation with the power of makeup.
+249,Let's Play,Mongie,A slice-of-life romantic comedy webtoon about a video game developer and her interactions with her neighbors.
+250,Siren's Lament,instantmiso,"A fantasy romance webtoon about sirens, love, and destiny."
+251,Lumine,Emma Krogell,A fantasy webtoon about a young boy named Lumine who is searching for his missing master.
+252,SubZero,Junepurrr,"A fantasy romance webtoon set in a world divided by elemental powers, where two individuals from rival clans fall in love."
+253,Age Matters,Enjelicious,A romance webtoon about a 29-year-old woman who crosses paths with a younger man and discovers new perspectives on life and love.
+254,Bastard,"Youngchan Hwang, Carnby Kim",A psychological thriller webtoon about a boy whose father is a serial killer.
+255,Lookism,Taejoon Park,"A webtoon about appearance, discrimination, and the quest for identity."
+256,Castle Swimmer,Wendy Lian Martin,A fantasy romance webtoon featuring a mermaid prince and a human destined to bring about his destruction.
+257,Gourmet Hound,Leehama,"A mystery webtoon about a girl on a quest to find her missing friend, uncovering secrets about food along the way."
+258,The Subtle Art of Not Giving a F*ck,Mark Manson,Offers blunt advice on how to live a better life by focusing on what truly matters and letting go of what doesn't.
+259,Educated,Tara Westover,"Memoir of a woman who grew up in a strict, survivalist family in rural Idaho and eventually earned a PhD from Cambridge University."
+260,Becoming,Michelle Obama,"Memoir of former First Lady Michelle Obama, detailing her life from childhood to her time in the White House."
+261,The Power of Habit,Charles Duhigg,Investigates the science behind why habits exist and how they can be changed.
+262,The Immortal Life of Henrietta Lacks,Rebecca Skloot,"Tells the story of Henrietta Lacks, whose cells were taken without her consent and became instrumental in scientific research."
+263,Bad Blood: Secrets and Lies in a Silicon Valley Startup,John Carreyrou,Chronicles the rise and fall of the biotech startup Theranos and its founder Elizabeth Holmes.
+264,"Guns, Germs, and Steel",Jared Diamond,Examines the factors that led to the dominance of certain civilizations over others throughout history.
+265,Homo Deus: A Brief History of Tomorrow,Yuval Noah Harari,"Explores the future of humanity, discussing potential paths for our species in areas such as technology, religion, and more."
+266,Freakonomics,"Steven D. Levitt, Stephen J. Dubner","Uses economic principles to explore real-world phenomena, uncovering surprising connections and insights."
+267,The Life-Changing Magic of Tidying Up,Marie Kondo,Introduces the KonMari Method for decluttering and organizing your home and life.
+268,Outliers: The Story of Success,Malcolm Gladwell,"Investigates the factors that contribute to high levels of success, challenging the notion of individual merit alone."
+269,Born a Crime: Stories from a South African Childhood,Trevor Noah,"Memoir of comedian Trevor Noah, detailing his experiences growing up in apartheid-era South Africa."
+270,Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain,Explores the strengths and talents of introverts in a society that often values extroversion.
+271,The Power of Now,Eckhart Tolle,Offers spiritual guidance on living in the present moment and achieving inner peace.
+272,The 7 Habits of Highly Effective People,Stephen R. Covey,"Presents a holistic approach to personal and interpersonal effectiveness based on principles of fairness, integrity, and honesty."
+273,How to Win Friends and Influence People,Dale Carnegie,"Offers practical advice on building relationships, influencing others, and achieving success in both personal and professional life."
+274,Man's Search for Meaning,Viktor E. Frankl,Memoir of Viktor Frankl's experiences in Nazi concentration camps and his development of logotherapy.
+275,The Four Agreements,Don Miguel Ruiz,"Presents a code of conduct based on ancient Toltec wisdom, offering principles for personal freedom and happiness."
+276,Into the Wild,Jon Krakauer,"Chronicles the journey of Chris McCandless, a young man who gave up his possessions and ventured into the Alaskan wilderness."
+277,Thinking in Bets,Annie Duke,"Explores decision-making through the lens of poker, offering insights into how to make better choices in uncertain situations."
+278,When Breath Becomes Air,Paul Kalanithi,"Memoir of a neurosurgeon diagnosed with terminal cancer, reflecting on life, mortality, and the pursuit of meaning."
+279,The Art of War,Sun Tzu,"Ancient Chinese military treatise offering insights into strategy, tactics, and leadership."
+280,The Tipping Point,Malcolm Gladwell,"Explores the phenomena that lead to the sudden and dramatic spread of ideas, products, and behaviors."
+281,The Power of Positive Thinking,Norman Vincent Peale,Advocates for the power of positive thinking in overcoming challenges and achieving success.
+282,Influence: The Psychology of Persuasion,Robert B. Cialdini,"Examines the psychology behind why people say ""yes"" and how to apply these principles ethically in various contexts."
+283,Daring Greatly,Brené Brown,"Explores the concept of vulnerability and its role in courage, authenticity, and meaningful connections."
+284,The Fifth Risk,Michael Lewis,Investigates the consequences of the transition between presidential administrations in the United States.
+285,The Man Who Mistook His Wife for a Hat,Oliver Sacks,Collection of case studies exploring unusual neurological conditions and their implications for human identity.
+286,The Brain That Changes Itself,Norman Doidge,Explores the neuroplasticity of the brain and how it can adapt and rewire itself throughout life.
+287,Mindset,Carol S. Dweck,Examines the concept of mindset and how having a growth mindset can lead to greater success and fulfillment.
+288,The Lean Startup,Eric Ries,Presents a methodology for developing businesses and products based on iterative learning and experimentation.
+289,The Happiness Project,Gretchen Rubin,Chronicles the author's year-long experiment to increase happiness in various aspects of her life.
+290,The Wright Brothers,David McCullough,"Biography of the Wright brothers, pioneers of aviation, and their journey to inventing the first successful airplane."
+291,In Cold Blood,Truman Capote,"Investigative journalism book recounting the brutal murders of the Clutter family in Holcomb, Kansas, and the subsequent investigation, trial, and execution of the perpetrators."
+292,Mythology: Timeless Tales of Gods and Heroes,Edith Hamilton,"A comprehensive collection of Greek, Roman, and Norse myths, retold for modern readers."
+293,Norse Mythology,Neil Gaiman,"Retelling of Norse myths, featuring gods like Odin, Thor, and Loki, and their adventures in the Nine Worlds."
+294,The Epic of Gilgamesh,Anonymous,"One of the oldest known works of literature, it tells the story of Gilgamesh, a legendary king of Uruk."
+295,The Aeneid,Virgil,"Epic poem by Virgil, telling the story of Aeneas, a Trojan hero who traveled to Italy and founded Rome."
+296,Metamorphoses,Ovid,"Narrative poem by Ovid, featuring a collection of myths and legends from Greek and Roman mythology."
+297,Mythos,Stephen Fry,"Retelling of Greek myths by Stephen Fry, exploring the stories of gods, heroes, and monsters."
+298,Heroes,Stephen Fry,"Sequel to ""Mythos"" by Stephen Fry, delving into the lives and adventures of Greek heroes."
+299,Mythology,Edith Hamilton,"Classic retelling of Greek, Roman, and Norse myths, providing insights into the ancient world."
+300,Bulfinch's Mythology,Thomas Bulfinch,"Collection of myths and legends from various cultures, including Greek, Roman, and Norse mythology."
+301,The Mabinogion,Anonymous,"Collection of Welsh myths and legends, featuring stories of heroes, gods, and magical creatures."
+302,The Prose Edda,Snorri Sturluson,"Collection of Old Norse mythology and poetry, providing insights into Norse cosmology and legends."
+303,The Poetic Edda,Anonymous,"Collection of Old Norse poems, featuring myths, heroic lays, and wisdom literature."
+304,D'Aulaires' Book of Greek Myths,Ingri d'Aulaire,"Illustrated retelling of Greek myths for children, featuring colorful illustrations and engaging storytelling."
+305,Egyptian Mythology,Geraldine Pinch,"Introduction to ancient Egyptian mythology, covering gods, goddesses, myths, and religious beliefs."
+306,The Egyptian Book of the Dead,Anonymous,"Collection of ancient Egyptian funerary texts, guiding the deceased through the afterlife."
+307,The Norse Myths,Kevin Crossley-Holland,"Retelling of Norse myths, featuring gods, giants, and heroes, with commentary on their cultural significance."
+308,Mythology: Timeless Tales of Gods and Heroes (listed above),Edith Hamilton,"Classic retelling of Greek, Roman, and Norse myths, providing insights into the ancient world."
+309,The Ramayana,Valmiki,Ancient Indian epic poem telling the story of Prince Rama and his quest to rescue his wife Sita from the demon king Ravana.
+310,The Mahabharata,Vyasa,"Epic narrative of the Kurukshetra War and the fates of the Kaurava and the Pandava princes, including the Bhagavad Gita."
+311,Sita: An Illustrated Retelling of the Ramayana,Devdutt Pattanaik,"A reimagining of the Ramayana from Sita's perspective, exploring themes of love, sacrifice, and devotion."
+312,Jaya: An Illustrated Retelling of the Mahabharata,Devdutt Pattanaik,"A modern retelling of the Mahabharata, presenting the epic in a concise and accessible format with vibrant illustrations."
+313,The Krishna Key,Ashwin Sanghi,"Thriller novel that intertwines modern-day mystery with elements of ancient Indian mythology, particularly related to Lord Krishna."
+314,Palace of Illusions,Chitra Banerjee Divakaruni,"Novel retelling the Mahabharata from the perspective of Draupadi, exploring themes of gender, power, and destiny."
+315,Myth=Mithya: Decoding Hindu Mythology,Devdutt Pattanaik,"Explores various Hindu myths and symbols, decoding their meanings and significance in Indian culture and spirituality."
+316,The Pregnant King,Devdutt Pattanaik,"Novel that reimagines the Mahabharata story of King Yuvanashva, exploring themes of gender identity and societal norms."
+317,Shiva Trilogy,Amish Tripathi,"Series of novels that reinterprets the legends of Lord Shiva, blending mythology with fiction and adventure."
+318,Devlok with Devdutt Pattanaik,Devdutt Pattanaik,"Collection of essays and conversations that delve into various aspects of Hindu mythology, culture, and philosophy."
+319,The Oath of the Vayuputras,Amish Tripathi,"Conclusion to the Shiva Trilogy, continuing the epic tale of Lord Shiva's adventures and battles against evil forces."
+320,Asura: Tale of the Vanquished,Anand Neelakantan,"Retelling of the Ramayana from the perspective of Ravana, offering a different interpretation of the epic."
+321,Ramayana: Divine Loophole,Sanjay Patel,"Graphic novel adaptation of the Ramayana, featuring vibrant illustrations and simplified storytelling."
+322,The Forest of Enchantments,Chitra Banerjee Divakaruni,"Retelling of the Ramayana from Sita's point of view, exploring her emotions, struggles, and relationships."
+323,Shikhandi and Other Tales They Don't Tell You,Devdutt Pattanaik,"Collection of gender-fluid narratives from Hindu mythology, challenging traditional ideas of gender and sexuality."
+324,Karna's Wife: The Outcast's Queen,Kavita Kane,"Novel that retells the Mahabharata from the perspective of Karna's wife, Uruvi, exploring themes of loyalty and sacrifice."
+325,The Aryavarta Chronicles,Krishna Udayasankar,"Series of novels inspired by the Mahabharata, set in a dystopian world where ancient traditions clash with modern ambitions."
+326,The Liberation of Sita,Volga,"Novel that reimagines the Ramayana from Sita's viewpoint, exploring her journey to independence and self-discovery."
+327,Adi Parva: Churning of the Ocean,Amruta Patil,"Graphic novel adaptation of the Mahabharata's first book, featuring stunning artwork and poetic storytelling."
+328,Yajnaseni: The Story of Draupadi,Pratibha Ray,"Novel that tells the story of Draupadi, the central female character of the Mahabharata, exploring her life and relationships."
+329,Immortal India: Articles and Speeches by Amish,Amish Tripathi,"Collection of essays and speeches by Amish Tripathi, discussing various aspects of Indian culture, mythology, and spirituality."
+330,Mrityunjaya: The Death Conqueror,Shivaji Sawant,"Novel based on the life of Karna from the Mahabharata, delving into his struggles, dilemmas, and ultimate destiny."
+331,The Secret of the Nagas,Amish Tripathi,"Second book in the Shiva Trilogy, continuing the adventures of Lord Shiva as he battles evil forces and seeks answers to his destiny."
+332,Scion of Ikshvaku,Amish Tripathi,"First book in the Ram Chandra series, reimagining the life of Lord Rama and his journey to become a king."
+333,Sita: Warrior of Mithila,Amish Tripathi,"Second book in the Ram Chandra series, focusing on Sita's role as a strong and independent warrior."
+334,Raavan: Enemy of Aryavarta,Amish Tripathi,"Third book in the Ram Chandra series, exploring the life and motivations of the mythological villain, Raavan."
+335,The Giver,Lois Lowry,Follows a boy named Jonas who lives in a seemingly utopian society that gradually reveals its dark secrets and lack of individual freedom.
+336,Divergent,Veronica Roth,"First book in a series set in a divided society where people are sorted into factions based on personality traits, following one girl's struggle against the system."
+337,The Maze Runner,James Dashner,"Begins a series where a group of teenagers find themselves trapped in a deadly maze, their memories erased, and their ultimate purpose unknown."
+338,The War of the Worlds,H.G. Wells,"Classic science fiction novel depicting an invasion of Earth by Martians, exploring themes of imperialism, survival, and human resilience."
+339,The Children of Men,P.D. James,"Set in a future where humanity faces extinction due to global infertility, the novel follows one man's journey to protect the last pregnant woman."
+340,Neuromancer,William Gibson,"Cyberpunk novel set in a dystopian future where hackers, artificial intelligence, and corporate power dominate society."
+341,The Stand,Stephen King,"Epic post-apocalyptic novel depicting the aftermath of a deadly pandemic that wipes out most of humanity, leading to a battle between good and evil."
+342,The Running Man,Stephen King (as Richard Bachman),Set in a future where a man is forced to participate in a deadly game show for the entertainment of the masses.
+343,The Hunger Games: Catching Fire,Suzanne Collins,"Second book in The Hunger Games series, continuing the story of Katniss Everdeen as she becomes a symbol of rebellion against the oppressive Capitol."
+344,The Hunger Games: Mockingjay,Suzanne Collins,"Conclusion to The Hunger Games trilogy, following Katniss Everdeen's role in the revolution against the Capitol and the aftermath of war."
+345,Snow Crash,Neal Stephenson,"Cyberpunk novel set in a future America where corporations rule, exploring themes of virtual reality, linguistic viruses, and corporate power."
+346,Do Androids Dream of Electric Sheep?,Philip K. Dick,"Set in a post-apocalyptic world where androids are indistinguishable from humans, exploring themes of identity, empathy, and artificial intelligence."
+347,The Man in the High Castle,Philip K. Dick,"Alternate history novel set in a world where the Axis Powers won World War II, depicting life under fascist rule and resistance movements."
+348,Altered Carbon,Richard K. Morgan,"First book in the Takeshi Kovacs series, set in a future where consciousness can be transferred between bodies, exploring themes of identity and immortality."
+349,Red Rising,Pierce Brown,"Begins a series set in a future society where humanity is divided into color-coded castes, following one man's revolution against the ruling elite."
+350,The Windup Girl,Paolo Bacigalupi,"Set in a future Thailand ravaged by climate change and genetic engineering, exploring themes of biopiracy, corporate power, and environmental degradation."
+351,Parable of the Sower,Octavia E. Butler,"First book in the Earthseed series, set in a near-future America ravaged by social and environmental collapse, following one girl's journey to survive and build a new community."
+352,"The Diamond Age: Or, A Young Lady's Illustrated Primer",Neal Stephenson,"Set in a future world where nanotechnology has transformed society, following the journey of a young girl who receives an interactive book that teaches her about life."
+353,Wool,Hugh Howey,"First book in the Silo series, set in a future where humanity lives in underground silos to escape a toxic surface, exploring themes of claustrophobia, surveillance, and rebellion."
+354,And Then There Were None,Agatha Christie,"Mystery novel where ten strangers are invited to a remote island, only to be accused of past crimes and murdered one by one."
+355,The Cuckoo's Calling,Robert Galbraith (J.K. Rowling),"First book in the Cormoran Strike series, following private investigator Cormoran Strike and his assistant Robin Ellacott as they solve cases."
+356,The No. 1 Ladies' Detective Agency,Alexander McCall Smith,"First book in a series following Precious Ramotswe, Botswana's first female detective, as she solves cases with compassion and intuition."
+357,Big Little Lies,Liane Moriarty,"Mystery novel exploring the lives of three women whose seemingly perfect lives unravel amid secrets, deception, and a murder investigation."
+358,The Hound of the Baskervilles,Arthur Conan Doyle,Sherlock Holmes novel where the detective investigates a supernatural hound that terrorizes the Baskerville family on the moors.
+359,In the Woods,Tana French,"First book in the Dublin Murder Squad series, following detective Rob Ryan as he investigates a murder with eerie connections to his past."
+360,Sharp Objects,Gillian Flynn,"Mystery thriller about a journalist who returns to her hometown to cover the murder of two preteen girls, confronting her own troubled past."
+361,The Silent Patient,Alex Michaelides,"Psychological thriller about a woman who shoots her husband and then stops speaking, leading her therapist to unravel the truth behind her silence."
+362,The Secret Place,Tana French,"Mystery novel in the Dublin Murder Squad series, where detectives investigate the murder of a teenage boy at an elite boarding school."
+363,The Maltese Falcon,Dashiell Hammett,Hard-boiled detective novel following private investigator Sam Spade as he investigates the mystery of the titular falcon statuette.
+364,The Murder of Roger Ackroyd,Agatha Christie,Classic mystery novel featuring detective Hercule Poirot investigating the murder of a wealthy man in a small English village.
+365,Dark Places,Gillian Flynn,Mystery thriller about a woman who revisits her traumatic past to investigate the murder of her family when she was a child.
+366,The Snowman,Jo Nesbø,"Psychological thriller in the Harry Hole series, where detective Harry Hole investigates a serial killer who targets women."
+367,Murder on the Orient Express,Agatha Christie,Detective novel featuring Hercule Poirot solving a murder on a luxurious train journey across Europe.
+368,The Girl on the Train,Paula Hawkins,Psychological thriller about a woman who becomes entangled in a missing person investigation while battling her own demons.
+369,The Secret Keeper,Kate Morton,Mystery novel blending past and present as a woman uncovers family secrets and a wartime mystery.
+370,The Woman in White,Wilkie Collins,"Classic mystery novel involving mistaken identity, secrets, and a mysterious woman in white."
+371,Lonesome Dove,Larry McMurtry,"Epic Western novel following a cattle drive from Texas to Montana, capturing the essence of the American frontier and the characters who inhabit it."
+372,True Grit,Charles Portis,"Classic Western novel about a young girl seeking revenge for her father's murder, accompanied by a grizzled U.S. Marshal."
+373,Blood Meridian,Cormac McCarthy,"Brutal and poetic Western novel set in the mid-19th century, following a teenager known only as ""the Kid"" as he joins a scalp-hunting expedition."
+374,Riders of the Purple Sage,Zane Grey,"Classic Western novel featuring a mysterious gunman, a rancher's daughter, and conflicts over land and water rights in Utah."
+375,The Sisters Brothers,Patrick deWitt,"Darkly humorous Western novel following two hired gunslingers, Eli and Charlie Sisters, as they track down a prospector during the Gold Rush."
+376,All the Pretty Horses,Cormac McCarthy,"Coming-of-age Western novel following a young cowboy's journey across the border into Mexico, where he encounters love, loss, and violence."
+377,The Shootist,Glendon Swarthout,"Novel about an aging gunslinger, J.B. Books, who seeks to die with dignity in a changing West where his way of life is fading away."
+378,Hondo,Louis L'Amour,"Western novel set in the Arizona desert, featuring Hondo Lane, a loner cowboy, and his encounter with a strong-willed woman and her son."
+379,The Time It Never Rained,Elmer Kelton,"Novel set in the Texas Panhandle during a prolonged drought, exploring the struggles of ranchers and their fight for survival."
+380,The Virginian,Owen Wister,"Considered one of the first Western novels, it follows a cowboy known as ""the Virginian"" as he navigates love, loyalty, and justice in the Wyoming Territory."
+381,Little Big Man,Thomas Berger,"Satirical Western novel narrated by 111-year-old Jack Crabb, who recounts his adventures living among Native Americans and Old West figures."
+382,Warlock,Oakley Hall,"Novel set in the Old West mining town of Warlock, where a conflict erupts between law and order and vigilante justice."
+383,The Ox-Bow Incident,Walter Van Tilburg Clark,"Novel set in a small Western town where a lynching mob forms to punish alleged cattle rustlers, exploring themes of justice and mob mentality."
+384,Shane,Jack Schaefer,Classic Western novel about a mysterious gunslinger who becomes involved in a conflict between homesteaders and a ruthless cattle baron.
+385,The Border Trilogy,Cormac McCarthy,"Series of novels set on the Texas-Mexico border, featuring interconnected stories of cowboys, outlaws, and the harsh desert landscape."
+386,The Big Sky,A.B. Guthrie Jr.,"Epic Western novel following the adventures of Boone Caudill, a fur trapper and mountain man, as he explores the American wilderness."
+387,Butcher's Crossing,John Williams,"Novel about a young Harvard dropout who joins a buffalo hunt in the Colorado Rockies, confronting nature, greed, and the limits of civilization."
+388,The Way West,A.B. Guthrie Jr.,"Novel following a group of pioneers on the Oregon Trail, facing hardships and conflicts as they journey to a new life in the West."
+389,The Call of the Wild,Jack London,Adventure novel about a domesticated dog named Buck who is kidnapped and sold as a sled dog in the Yukon during the Klondike Gold Rush.
+390,Hombre,Elmore Leonard,Western novel about a white man raised by Apaches who becomes involved in a stagecoach robbery and must confront his divided loyalties.
+391,Woe to Live On,Daniel Woodrell,"Novel set during the American Civil War in Missouri, following a group of Confederate soldiers and their encounters with guerrilla warfare."
+392,The Searchers,Alan Le May,"Novel about a man's relentless quest to rescue his niece who has been abducted by Comanche warriors, exploring themes of revenge and redemption."
+393,The Assassination of Jesse James by the Coward Robert Ford,Ron Hansen,"Novelization of the life of Jesse James and his eventual assassination by Robert Ford, exploring themes of fame, betrayal, and myth-making."
+394,The Last Picture Show,Larry McMurtry,"Coming-of-age novel set in a small Texas town in the 1950s, following a group of teenagers as they navigate love, loss, and the changing times."
+395,The Man Who Shot Liberty Valance,Dorothy M. Johnson,Novella about a senator's rise to power in the Old West and the legendary gunman who may or may not have killed the infamous outlaw Liberty Valance.
+396,The Haunting of Hill House,Shirley Jackson,Gothic horror novel about a group of people who experience supernatural occurrences while staying in a haunted mansion.
+397,The Exorcist,William Peter Blatty,Supernatural horror novel about the demonic possession of a young girl and the attempts to exorcise the demon.
+398,Pet Sematary,Stephen King,Horror novel about a family who discovers a burial ground near their new home that has the power to bring the dead back to life.
+399,IT,Stephen King,Horror novel about a group of friends who confront an ancient evil entity that preys on the children of their town.
+400,The Silence of the Lambs,Thomas Harris,Psychological horror novel about FBI trainee Clarice Starling who seeks the help of incarcerated serial killer Hannibal Lecter to catch another serial killer.
+401,Carrie,Stephen King,Horror novel about a teenage girl with telekinetic powers who seeks revenge on her classmates after they torment her at prom.
+402,Misery,Stephen King,Psychological horror novel about a novelist who is kidnapped and tortured by an obsessed fan after a car accident.
+403,The Turn of the Screw,Henry James,Gothic horror novella about a governess who becomes convinced that the children in her care are being haunted by malevolent spirits.
+404,House of Leaves,Mark Z. Danielewski,"Experimental horror novel about a family who moves into a house that is larger on the inside than it is on the outside, leading to existential terror."
+405,Psycho,Robert Bloch,Psychological horror novel about a young woman who checks into a secluded motel run by the mysterious Norman Bates.
+406,Interview with the Vampire,Anne Rice,Gothic horror novel about a vampire named Louis who recounts his life story to a young journalist.
+407,American Psycho,Bret Easton Ellis,Satirical horror novel about a wealthy investment banker who descends into madness and sadistic violence.
+408,The Tell-Tale Heart,Edgar Allan Poe,Short story about a narrator who insists on their sanity while describing a murder they committed.
+409,Bird Box,Josh Malerman,Post-apocalyptic horror novel about a mother and her two children who must navigate a world where seeing mysterious creatures leads people to deadly violence.
+410,Rosemary's Baby,Ira Levin,Horror novel about a young pregnant woman who becomes increasingly paranoid about her neighbors' intentions and the true nature of her unborn child.
+411,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,Gothic horror novella about a scientist who creates a potion that unleashes his dark alter ego.
+412,The Amityville Horror,Jay Anson,"Supernatural horror novel about a family who moves into a haunted house in Amityville, New York, and experiences terrifying paranormal events."
+413,We Have Always Lived in the Castle,Shirley Jackson,Gothic horror novel about two sisters who live in isolation with their uncle after the rest of their family dies under mysterious circumstances.
+414,The Girl with All the Gifts,M.R. Carey,Post-apocalyptic horror novel about a young girl who may hold the key to humanity's survival in a world overrun by zombie-like creatures.
+415,Something Wicked This Way Comes,Ray Bradbury,"Dark fantasy horror novel about two boys who encounter a mysterious carnival that arrives in their small town, granting wishes at a price."
+416,The Woman in Black,Susan Hill,Gothic horror novel about a young solicitor who encounters a vengeful ghost while settling the estate of a deceased client.
+417,Horns,Joe Hill,Supernatural horror novel about a man who wakes up one morning with horns growing out of his head and develops dark powers.
+418,Let the Right One In,John Ajvide Lindqvist,Horror novel about a bullied young boy who befriends a mysterious girl who turns out to be a vampire.
+419,Carrion Comfort,Dan Simmons,Horror novel about a group of people with psychic abilities who feed off human suffering and the efforts to stop their reign of terror.
+420,The Ritual,Adam Nevill,Horror novel about four friends who go on a hiking trip in the Scandinavian wilderness and encounter a malevolent force lurking in the woods.
+421,Annihilation,Jeff VanderMeer,"Horror novel about a team of scientists who explore a mysterious and dangerous area known as Area X, where nature has taken a sinister turn."
+422,World War Z,Max Brooks,"Horror novel about a global zombie pandemic, told through a series of interviews with survivors from different parts of the world."
+423,The Terror,Dan Simmons,Historical horror novel about the ill-fated Franklin Expedition to the Arctic and the supernatural forces that prey upon the crew.
+424,NOS4A2,Joe Hill,"Horror novel about a woman with supernatural abilities who must confront a sinister and immortal child abductor known as ""Charlie Manx."""
+425,Hell House,Richard Matheson,"Horror novel about a physicist who investigates the infamous Belasco House, known for its tragic history and paranormal activity."
+426,The Girl Next Door,Jack Ketchum,"Psychological horror novel based on the true story of Sylvia Likens, a young girl who was tortured and killed by her caretakers."
+427,Ghost Story,Peter Straub,Horror novel about a group of elderly men who must confront a supernatural entity from their past that has returned to haunt them.
+428,The Ruins,Scott Smith,Horror novel about a group of tourists who become trapped in an ancient Mayan temple overrun by a malevolent force.
+429,The Troop,Nick Cutter,Horror novel about a group of Boy Scouts who must fight for survival when they encounter a deadly parasitic infection on a remote island.
+430,Penpal,Dathan Auerbach,"Horror novel about a man who recalls a series of disturbing events from his childhood, including encounters with a mysterious stalker."
+431,Heart-Shaped Box,Joe Hill,Horror novel about an aging rock star who buys a haunted suit online and becomes the target of a vengeful ghost.
+432,The Fisherman,John Langan,Horror novel about two widowers who go fishing at a forbidden reservoir and encounter an ancient evil that threatens their sanity.
+433,The Girl in the Mirror,Rose Carlyle,Psychological horror novel about twin sisters whose lives spiral into darkness as jealousy and obsession lead to a deadly game of deceit.
+434,The Deep,Alma Katsu,Horror novel about the survivors of the Titanic who are haunted by strange occurrences during their journey aboard the doomed ship.
+435,The Drowning Kind,Jennifer McMahon,Horror novel about a woman who returns to her family's estate to uncover the truth behind her sister's mysterious drowning decades earlier.
+436,The Hunger,Alma Katsu,"Horror novel about the ill-fated Donner Party's journey westward, where they encounter supernatural forces that prey upon their desperation."
+437,The Only Good Indians,Stephen Graham Jones,Horror novel about a group of Blackfeet Indians who are haunted by the vengeful spirit of a creature they killed during a hunting trip.
+438,My Best Friend's Exorcism,Grady Hendrix,Horror novel about two teenage girls whose friendship is tested when one of them becomes possessed by a demonic entity.
+439,The Southern Book Club's Guide to Slaying Vampires,Grady Hendrix,Horror novel about a book club of Southern housewives who confront a charismatic and dangerous vampire in their neighborhood.
+440,The Winter People,Jennifer McMahon,Horror novel about a small town in Vermont where the boundary between the living and the dead becomes blurred.
+441,The Whisper Man,Alex North,Psychological horror novel about a father and son who move to a new town where a series of child abductions eerily resembles a case from the past.
+442,Long Walk to Freedom,Nelson Mandela,"Autobiography of Nelson Mandela, detailing his life, imprisonment, and role in ending apartheid in South Africa."
+443,Steve Jobs,Walter Isaacson,"Biography of Steve Jobs, co-founder of Apple Inc., providing insights into his innovative spirit and complex personality."
+444,The Autobiography of Malcolm X,"Malcolm X, Alex Haley","Autobiography of civil rights activist Malcolm X, tracing his journey from a troubled youth to a prominent leader in the Civil Rights Movement."
+445,Unbroken,Laura Hillenbrand,"Biography of Louis Zamperini, an Olympic athlete and World War II veteran, focusing on his resilience and survival after being captured by the Japanese."
+446,Alexander Hamilton,Ron Chernow,"Biography of Alexander Hamilton, one of the Founding Fathers of the United States, exploring his contributions to American politics and finance."
+447,Bossypants,Tina Fey,"Memoir by Tina Fey, comedian and actress, offering humorous insights into her life and career in comedy."
+448,The Glass Castle,Jeannette Walls,"Memoir by Jeannette Walls, recounting her unconventional upbringing with dysfunctional parents and her journey to overcome adversity."
+449,Benjamin Franklin,Walter Isaacson,"Biography of Benjamin Franklin, one of America's Founding Fathers, exploring his diverse interests and contributions to science, politics, and literature."
+450,Angela's Ashes,Frank McCourt,"Memoir by Frank McCourt, depicting his impoverished childhood in Ireland and his family's struggle for survival."
+451,My Life in France,"Julia Child, Alex Prud'homme","Memoir by Julia Child, detailing her culinary adventures in France and the creation of her groundbreaking cookbook, Mastering the Art of French Cooking."
+452,Theodore Roosevelt: A Strenuous Life,Kathleen Dalton,"Biography of Theodore Roosevelt, 26th President of the United States, exploring his energetic personality and progressive political agenda."
