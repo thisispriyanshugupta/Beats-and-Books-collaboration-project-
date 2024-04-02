@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <title>Beats and Books</title>
+    <style>
+        body {
+            background-color: #f4f1ea;
+            font-family: 'Merriweather', serif;
+        }
+
+        .card {
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+        }
+
+        .title {
+            font-family: 'Playfair Display', serif;
+            color: #6b4e3d;
+        }
+
+        .btn-custom {
+            background-color: #8c7851;
+            border: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn-custom:hover {
+            background-color: #a39071;
+        }
+
+        .input-custom {
+            background-color: #fdfaf6;
+            border-color: #eae0d5;
+        }
+
+        .input-custom:focus {
+            border-color: #d2c0a3;
+            background-color: #fff;
+        }
+
+        .label-custom {
+            color: #6b4e3d;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container mx-auto p-8">
+        <div class="max-w-md mx-auto card bg-white rounded-lg overflow-hidden md:max-w-lg">
+            <div class="md:flex">
+                <div class="w-full p-8">
+                    <div class="text-center mb-10">
+                        <h2 class="title text-4xl font-bold mb-3">Beats and Books</h2>
+                        <p class="text-lg text-gray-600">Discover the perfect soundtrack for your reading</p>
+                    </div>
+                    <div>
+                        <form action="/recommendations" method="post">
+                        <div class="mb-6">
+                            <label class="label-custom block text-sm font-bold mb-2" for="book_title">
+                                Name of the Book
+                            </label>
+                            <input class="input-custom shadow appearance-none border rounded w-full py-2 px-3 leading-tight focus:outline-none" id="book_title" type="text" placeholder="E.g., Pride and Prejudice" name="book_title" required>
+                        </div>
+                        <div class="mb-8">
+                            <label class="label-custom block text-sm font-bold mb-2" for="num_recommendations">
+                                Number of Songs
+                            </label>
+                            <input class="input-custom shadow appearance-none border rounded w-full py-2 px-3 leading-tight focus:outline-none" id="num_recommendations" type="number" placeholder="E.g., 5" name="num_recommendations" min="1" value="3" required>
+                        </div>
+                        <div class="flex items-center justify-center">
+                            <button class="btn-custom text-white font-bold py-2 px-6 rounded focus:outline-none" type="submit">
+                                Get Recommendations
+                            </button>
+                        </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
