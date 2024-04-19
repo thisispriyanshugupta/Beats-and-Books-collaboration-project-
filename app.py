@@ -48,7 +48,7 @@ books = books_df['Title'].tolist()
 
 @app.route('/')
 def index():
-    return render_template('final.html')
+    return render_template('index.html')
 
 @app.route('/autocomplete', methods=['GET'])
 def autocomplete():
