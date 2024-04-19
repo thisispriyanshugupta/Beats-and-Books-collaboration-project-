@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -65,12 +66,13 @@
                                 Name of the Book
                             </label>
                             <input class="input-custom shadow appearance-none border rounded w-full py-2 px-3 leading-tight focus:outline-none" id="book_title" type="text" placeholder="E.g., Pride and Prejudice" name="book_title" required>
+                            <ul id="autocomplete-list"></ul>
                         </div>
                         <div class="mb-8">
                             <label class="label-custom block text-sm font-bold mb-2" for="num_recommendations">
                                 Number of Songs
                             </label>
-                            <input class="input-custom shadow appearance-none border rounded w-full py-2 px-3 leading-tight focus:outline-none" id="num_recommendations" type="number" placeholder="E.g., 5" name="num_recommendations" min="1" value="3" required>
+                            <input class="input-custom shadow appearance-none border rounded w-full py-2 px-3 leading-tight focus:outline-none" id="num_recommendations" type="number" placeholder="E.g., 5" name="num_recommendations" min="1" required>
                         </div>
                         <div class="flex items-center justify-center">
                             <button class="btn-custom text-white font-bold py-2 px-6 rounded focus:outline-none" type="submit">
@@ -83,6 +85,39 @@
             </div>
         </div>
     </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
+    <script>
+        $(document).ready(function () {
+            $("#book_title").on("input", function () {
+                var searchTerm = $(this).val();
+                $.ajax({
+                    url: "/autocomplete",
+                    method: "GET",
+                    data: {
+                        term: searchTerm
+                    },
+                    success: function (data) {
+                        var autocompleteList = $("#autocomplete-list");
+                        autocompleteList.empty();
+                        $.each(data, function (index, value) {
+                            autocompleteList.append("<li class='autocomplete-item'>" + value + "</li>");
+                        });
+                    }
+                });
+            });
+
+            $(document).on("click", ".autocomplete-item", function () {
+                var selectedTitle = $(this).text();
+                $("#book_title").val(selectedTitle);
+                $("#autocomplete-list").empty();
+            });
+        });
+    </script>
+    
+    
+    
 </body>
 
 </html>
