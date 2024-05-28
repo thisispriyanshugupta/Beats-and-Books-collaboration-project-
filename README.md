@@ -11,7 +11,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
 
     ```
-    git clone https://github.com/Ananyaearth/Beats-and-Books-collaboration-project-.git
+    git clone https://github.com/thisispriyanshugupta/Beats-and-Books-collaboration-project-.git
     ```
 
 2. **Install Dependencies:**
